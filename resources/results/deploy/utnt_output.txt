@@ -1,0 +1,390 @@
+t0: 1692776745699
+c[?7l[2J[0mSeaBIOS (version 1.14.0-2)
+
+
+iPXE (http://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+0078F6C0+006CF6C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+t0: 1692776763860
+c[?7l[2J[0mSeaBIOS (version 1.14.0-2)
+
+
+iPXE (http://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+0078F6C0+006CF6C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+t0: 1692776781998
+c[?7l[2J[0mSeaBIOS (version 1.14.0-2)
+
+
+iPXE (http://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+0078F6C0+006CF6C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+t0: 1692776800149
+c[?7l[2J[0mSeaBIOS (version 1.14.0-2)
+
+
+iPXE (http://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+0078F6C0+006CF6C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+t0: 1692776818299
+c[?7l[2J[0mSeaBIOS (version 1.14.0-2)
+
+
+iPXE (http://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+0078F6C0+006CF6C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+t0: 1692776836446
+c[?7l[2J[0mSeaBIOS (version 1.14.0-2)
+
+
+iPXE (http://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+0078F6C0+006CF6C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+t0: 1692776854612
+c[?7l[2J[0mSeaBIOS (version 1.14.0-2)
+
+
+iPXE (http://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+0078F6C0+006CF6C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+t0: 1692776872751
+c[?7l[2J[0mSeaBIOS (version 1.14.0-2)
+
+
+iPXE (http://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+0078F6C0+006CF6C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+t0: 1692776890895
+c[?7l[2J[0mSeaBIOS (version 1.14.0-2)
+
+
+iPXE (http://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+0078F6C0+006CF6C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+t0: 1692776909051
+c[?7l[2J[0mSeaBIOS (version 1.14.0-2)
+
+
+iPXE (http://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+0078F6C0+006CF6C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+t0: 1692776927203
+c[?7l[2J[0mSeaBIOS (version 1.14.0-2)
+
+
+iPXE (http://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+0078F6C0+006CF6C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+t0: 1692776945342
+c[?7l[2J[0mSeaBIOS (version 1.14.0-2)
+
+
+iPXE (http://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+0078F6C0+006CF6C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+t0: 1692776963492
+c[?7l[2J[0mSeaBIOS (version 1.14.0-2)
+
+
+iPXE (http://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+0078F6C0+006CF6C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+t0: 1692776981635
+c[?7l[2J[0mSeaBIOS (version 1.14.0-2)
+
+
+iPXE (http://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+0078F6C0+006CF6C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+t0: 1692776999795
+c[?7l[2J[0mSeaBIOS (version 1.14.0-2)
+
+
+iPXE (http://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+0078F6C0+006CF6C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+t0: 1692777017959
+c[?7l[2J[0mSeaBIOS (version 1.14.0-2)
+
+
+iPXE (http://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+0078F6C0+006CF6C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+t0: 1692777036127
+c[?7l[2J[0mSeaBIOS (version 1.14.0-2)
+
+
+iPXE (http://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+0078F6C0+006CF6C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+t0: 1692777054276
+c[?7l[2J[0mSeaBIOS (version 1.14.0-2)
+
+
+iPXE (http://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+0078F6C0+006CF6C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+t0: 1692777072453
+c[?7l[2J[0mSeaBIOS (version 1.14.0-2)
+
+
+iPXE (http://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+0078F6C0+006CF6C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+t0: 1692777090603
+c[?7l[2J[0mSeaBIOS (version 1.14.0-2)
+
+
+iPXE (http://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+0078F6C0+006CF6C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+t0: 1692777108751
+c[?7l[2J[0mSeaBIOS (version 1.14.0-2)
+
+
+iPXE (http://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+0078F6C0+006CF6C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+t0: 1692777126912
+c[?7l[2J[0mSeaBIOS (version 1.14.0-2)
+
+
+iPXE (http://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+0078F6C0+006CF6C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+t0: 1692777145047
+c[?7l[2J[0mSeaBIOS (version 1.14.0-2)
+
+
+iPXE (http://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+0078F6C0+006CF6C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+t0: 1692777163191
+c[?7l[2J[0mSeaBIOS (version 1.14.0-2)
+
+
+iPXE (http://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+0078F6C0+006CF6C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+t0: 1692777181346
+c[?7l[2J[0mSeaBIOS (version 1.14.0-2)
+
+
+iPXE (http://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+0078F6C0+006CF6C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+t0: 1692777199505
+c[?7l[2J[0mSeaBIOS (version 1.14.0-2)
+
+
+iPXE (http://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+0078F6C0+006CF6C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+t0: 1692777217668
+c[?7l[2J[0mSeaBIOS (version 1.14.0-2)
+
+
+iPXE (http://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+0078F6C0+006CF6C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+t0: 1692777235831
+c[?7l[2J[0mSeaBIOS (version 1.14.0-2)
+
+
+iPXE (http://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+0078F6C0+006CF6C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+t0: 1692777253984
+c[?7l[2J[0mSeaBIOS (version 1.14.0-2)
+
+
+iPXE (http://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+0078F6C0+006CF6C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+t0: 1692777272166
+c[?7l[2J[0mSeaBIOS (version 1.14.0-2)
+
+
+iPXE (http://ipxe.org) 00:03.0 CA00 PCI2.10 PnP PMM+0078F6C0+006CF6C0 CA00
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249

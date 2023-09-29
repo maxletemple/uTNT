@@ -1,0 +1,6 @@
+### Invisible option for dependencies
+config APPUTNT_DEPENDENCIES
+	bool
+	default y
+	select LIBSCAMPER
+

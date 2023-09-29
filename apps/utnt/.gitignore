@@ -1,0 +1,4 @@
+build/*
+fs0/
+.vscode/
+.config.old

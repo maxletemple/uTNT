@@ -1,0 +1,6 @@
+# Compiled source #
+###################
+*.d
+*.o
+*.exe
+*.DS_Store

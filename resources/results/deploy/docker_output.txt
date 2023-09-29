@@ -1,0 +1,270 @@
+t0: 1692777385598
+t1: 1692777387408667
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+done
+t2: 1692777403717683
+t0: 1692777429198
+t1: 1692777430923528
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+done
+t2: 1692777447232840
+t0: 1692777472662
+t1: 1692777474355792
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+done
+t2: 1692777490666181
+t0: 1692777516069
+t1: 1692777517803451
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+done
+t2: 1692777534113097
+t0: 1692777559945
+t1: 1692777561663941
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+done
+t2: 1692777577973190
+t0: 1692777601736
+t1: 1692777603289321
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+done
+t2: 1692777619598116
+t0: 1692777644373
+t1: 1692777645947912
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+done
+t2: 1692777662258456
+t0: 1692777686081
+t1: 1692777687641673
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+done
+t2: 1692777703950802
+t0: 1692777728064
+t1: 1692777729622338
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+done
+t2: 1692777745933089
+t0: 1692777771299
+t1: 1692777773046275
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+done
+t2: 1692777789356239
+t0: 1692777813513
+t1: 1692777815051693
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+done
+t2: 1692777831360114
+t0: 1692777855229
+t1: 1692777856758720
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+done
+t2: 1692777873068443
+t0: 1692777898540
+t1: 1692777900195229
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+done
+t2: 1692777916504187
+t0: 1692777939880
+t1: 1692777941257034
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+done
+t2: 1692777957566060
+t0: 1692777983135
+t1: 1692777984926472
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+done
+t2: 1692778001236964
+t0: 1692778025839
+t1: 1692778027564247
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+done
+t2: 1692778043873156
+t0: 1692778069364
+t1: 1692778071192962
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+done
+t2: 1692778087503194
+t0: 1692778114203
+t1: 1692778116011627
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+done
+t2: 1692778132320569
+t0: 1692778157858
+t1: 1692778159611091
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+done
+t2: 1692778175919889
+t0: 1692778199105
+t1: 1692778200456108
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+done
+t2: 1692778216764502
+t0: 1692778239444
+t1: 1692778240662223
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+done
+t2: 1692778256972186
+t0: 1692778280208
+t1: 1692778281541038
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+done
+t2: 1692778297850301
+t0: 1692778323482
+t1: 1692778325168787
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+done
+t2: 1692778341478277
+t0: 1692778364594
+t1: 1692778366283536
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+done
+t2: 1692778382593080
+t0: 1692778407725
+t1: 1692778409334578
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+done
+t2: 1692778425644204
+t0: 1692778451139
+t1: 1692778452742424
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+done
+t2: 1692778469052372
+t0: 1692778494229
+t1: 1692778495795645
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+done
+t2: 1692778512104262
+t0: 1692778535433
+t1: 1692778536813311
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+done
+t2: 1692778553123452
+t0: 1692778576502
+t1: 1692778577824031
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+done
+t2: 1692778594132953
+t0: 1692778619869
+t1: 1692778621614187
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+p 1, w 3, l 0 : ping -P icmp-echo -c 1 139.165.222.1
+p 2, w 2, l 0 : ping -P icmp-echo -c 1 193.190.228.29
+p 3, w 1, l 0 : ping -P icmp-echo -c 1 193.190.200.188
+p 4, w 0, l 0 : ping -P icmp-echo -c 1 193.190.252.249
+done
+t2: 1692778637923912

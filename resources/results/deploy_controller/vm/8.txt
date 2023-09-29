@@ -1,0 +1,369 @@
+1693563541.435905,1693563542.901882,1693563718.6078522,
+t0: 1693563543060
+Bringing machine 'default' up with 'libvirt' provider...
+==> default: Box 'generic/ubuntu1604' could not be found. Attempting to find and install...
+    default: Box Provider: libvirt
+    default: Box Version: >= 0
+==> default: Loading metadata for box 'generic/ubuntu1604'
+    default: URL: https://vagrantcloud.com/generic/ubuntu1604
+==> default: Adding box 'generic/ubuntu1604' (v4.2.16) for provider: libvirt
+    default: Downloading: https://vagrantcloud.com/generic/boxes/ubuntu1604/versions/4.2.16/providers/libvirt.box
+[KProgress: 0% (Rate: 0*/s, Estimated time remaining: --:--:--)[KProgress: 100% (Rate: 606/s, Estimated time remaining: --:--:--)[KProgress: 0% (Rate: 0*/s, Estimated time remaining: --:--:--)[KProgress: 4% (Rate: 27.0M/s, Estimated time remaining: 0:00:35)[KProgress: 10% (Rate: 58.2M/s, Estimated time remaining: 0:00:23)[KProgress: 16% (Rate: 58.2M/s, Estimated time remaining: 0:00:19)[KProgress: 21% (Rate: 58.2M/s, Estimated time remaining: 0:00:16)[KProgress: 27% (Rate: 58.2M/s, Estimated time remaining: 0:00:14)[KProgress: 33% (Rate: 58.2M/s, Estimated time remaining: 0:00:13)[KProgress: 39% (Rate: 58.2M/s, Estimated time remaining: 0:00:12)[KProgress: 45% (Rate: 58.2M/s, Estimated time remaining: 0:00:10)[KProgress: 51% (Rate: 58.2M/s, Estimated time remaining: 0:00:09)[KProgress: 57% (Rate: 58.2M/s, Estimated time remaining: 0:00:08)[KProgress: 62% (Rate: 56.1M/s, Estimated time remaining: 0:00:07)[KProgress: 68% (Rate: 56.1M/s, Estimated time remaining: 0:00:06)[KProgress: 74% (Rate: 56.1M/s, Estimated time remaining: 0:00:05)[KProgress: 79% (Rate: 56.1M/s, Estimated time remaining: 0:00:04)[KProgress: 85% (Rate: 56.1M/s, Estimated time remaining: 0:00:03)[KProgress: 91% (Rate: 58.2M/s, Estimated time remaining: 0:00:02)[KProgress: 97% (Rate: 58.2M/s, Estimated time remaining: --:--:--)[K    default: Calculating and comparing box checksum...
+==> default: Successfully added box 'generic/ubuntu1604' (v4.2.16) for 'libvirt'!
+==> default: Creating image (snapshot of base box volume).
+==> default: Creating domain with the following settings...
+==> default:  -- Name:              debian_default
+==> default:  -- Description:       Source: /home/debian/Vagrantfile
+==> default:  -- Domain type:       kvm
+==> default:  -- Cpus:              1
+==> default:  -- Feature:           acpi
+==> default:  -- Feature:           apic
+==> default:  -- Feature:           pae
+==> default:  -- Clock offset:      utc
+==> default:  -- Memory:            1024M
+==> default:  -- Base box:          generic/ubuntu1604
+==> default:  -- Storage pool:      default
+==> default:  -- Image(vda):        /var/lib/libvirt/images/debian_default.img, virtio, 128G
+==> default:  -- Disk driver opts:  cache='default'
+==> default:  -- Graphics Type:     vnc
+==> default:  -- Video Type:        cirrus
+==> default:  -- Video VRAM:        256
+==> default:  -- Video 3D accel:    false
+==> default:  -- Keymap:            en-us
+==> default:  -- TPM Backend:       passthrough
+==> default:  -- INPUT:             type=mouse, bus=ps2
+==> default: Creating shared folders metadata...
+==> default: Starting domain.
+==> default: Domain launching with graphics connection settings...
+==> default:  -- Graphics Port:      5900
+==> default:  -- Graphics IP:        127.0.0.1
+==> default:  -- Graphics Password:  Not defined
+==> default:  -- Graphics Websocket: 5700
+==> default: Waiting for domain to get an IP address...
+==> default: Waiting for machine to boot. This may take a few minutes...
+    default: SSH address: 192.168.121.81:22
+    default: SSH username: vagrant
+    default: SSH auth method: private key
+    default: 
+    default: Vagrant insecure key detected. Vagrant will automatically replace
+    default: this with a newly generated keypair for better security.
+    default: 
+    default: Inserting generated public key within guest...
+    default: Removing insecure key from the guest if it's present...
+    default: Key inserted! Disconnecting and reconnecting using new SSH key...
+==> default: Machine booted and ready!
+==> default: Running provisioner: shell...
+    default: Running: inline script
+    default: Fri Sep  1 10:20:22 UTC 2023
+    default: t1: 1693563703050009
+    default: p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+    default: p 1, w 6, l 0 : ping -P icmp-echo -c 1 1.1.1.1
+    default: p 2, w 5, l 0 : ping -P icmp-echo -c 1 149.56.44.1
+    default: p 3, w 4, l 0 : ping -P icmp-echo -c 1 172.69.206.4
+    default: p 4, w 3, l 0 : ping -P icmp-echo -c 1 192.99.146.49
+    default: p 5, w 2, l 0 : ping -P icmp-echo -c 1 158.69.45.55
+    default: p 6, w 1, l 0 : ping -P icmp-echo -c 1 192.99.146.85
+    default: p 7, w 0, l 0 : ping -P icmp-echo -c 1 158.69.44.254
+    default: p 1, w 0, l 0 : trace -f 9 -P icmp-paris -U 1 -w 1 -q 3 -g 5 172.69.206.4
+    default: done
+    default: t2: 1693563705162401
+==> default: Attempting graceful shutdown of VM...
+==> default: Removing domain...
+==> default: Deleting the machine folder
+Removing box 'generic/ubuntu1604' (v4.2.16) with provider 'libvirt'...
+Vagrant-libvirt plugin removed box only from /home/debian/.vagrant.d/boxes directory
+From Libvirt storage pool you have to delete image manually(virsh, virt-manager or by any other tool)
+
+1693563537.6128495,1693563538.3262475,1693563729.7663078,
+t0: 1693563538389
+Bringing machine 'default' up with 'libvirt' provider...
+==> default: Box 'generic/ubuntu1604' could not be found. Attempting to find and install...
+    default: Box Provider: libvirt
+    default: Box Version: >= 0
+==> default: Loading metadata for box 'generic/ubuntu1604'
+    default: URL: https://vagrantcloud.com/generic/ubuntu1604
+==> default: Adding box 'generic/ubuntu1604' (v4.2.16) for provider: libvirt
+    default: Downloading: https://vagrantcloud.com/generic/boxes/ubuntu1604/versions/4.2.16/providers/libvirt.box
+[KProgress: 0% (Rate: 0*/s, Estimated time remaining: --:--:--)[KProgress: 100% (Rate: 261/s, Estimated time remaining: --:--:--)[KProgress: 100% (Rate: 269/s, Estimated time remaining: --:--:--)[KProgress: 0% (Rate: 0*/s, Estimated time remaining: --:--:--)[KProgress: 0% (Rate: 531k/s, Estimated time remaining: 0:31:39)[KProgress: 4% (Rate: 38.4M/s, Estimated time remaining: 0:01:21)[KProgress: 9% (Rate: 44.2M/s, Estimated time remaining: 0:00:44)[KProgress: 14% (Rate: 47.1M/s, Estimated time remaining: 0:00:32)[KProgress: 19% (Rate: 48.8M/s, Estimated time remaining: 0:00:26)[KProgress: 25% (Rate: 49.9M/s, Estimated time remaining: 0:00:22)[KProgress: 30% (Rate: 53.0M/s, Estimated time remaining: 0:00:19)[KProgress: 36% (Rate: 53.8M/s, Estimated time remaining: 0:00:16)[KProgress: 41% (Rate: 54.0M/s, Estimated time remaining: 0:00:14)[KProgress: 47% (Rate: 54.1M/s, Estimated time remaining: 0:00:13)[KProgress: 52% (Rate: 54.1M/s, Estimated time remaining: 0:00:11)[KProgress: 58% (Rate: 54.2M/s, Estimated time remaining: 0:00:09)[KProgress: 63% (Rate: 54.2M/s, Estimated time remaining: 0:00:08)[KProgress: 69% (Rate: 54.3M/s, Estimated time remaining: 0:00:07)[KProgress: 74% (Rate: 54.2M/s, Estimated time remaining: 0:00:05)[KProgress: 80% (Rate: 54.2M/s, Estimated time remaining: 0:00:04)[KProgress: 85% (Rate: 54.2M/s, Estimated time remaining: 0:00:03)[KProgress: 91% (Rate: 54.2M/s, Estimated time remaining: 0:00:02)[KProgress: 96% (Rate: 54.2M/s, Estimated time remaining: 0:00:01)[K    default: Calculating and comparing box checksum...
+==> default: Successfully added box 'generic/ubuntu1604' (v4.2.16) for 'libvirt'!
+==> default: Creating image (snapshot of base box volume).
+==> default: Creating domain with the following settings...
+==> default:  -- Name:              debian_default
+==> default:  -- Description:       Source: /home/debian/Vagrantfile
+==> default:  -- Domain type:       kvm
+==> default:  -- Cpus:              1
+==> default:  -- Feature:           acpi
+==> default:  -- Feature:           apic
+==> default:  -- Feature:           pae
+==> default:  -- Clock offset:      utc
+==> default:  -- Memory:            1024M
+==> default:  -- Base box:          generic/ubuntu1604
+==> default:  -- Storage pool:      default
+==> default:  -- Image(vda):        /var/lib/libvirt/images/debian_default.img, virtio, 128G
+==> default:  -- Disk driver opts:  cache='default'
+==> default:  -- Graphics Type:     vnc
+==> default:  -- Video Type:        cirrus
+==> default:  -- Video VRAM:        256
+==> default:  -- Video 3D accel:    false
+==> default:  -- Keymap:            en-us
+==> default:  -- TPM Backend:       passthrough
+==> default:  -- INPUT:             type=mouse, bus=ps2
+==> default: Creating shared folders metadata...
+==> default: Starting domain.
+==> default: Domain launching with graphics connection settings...
+==> default:  -- Graphics Port:      5900
+==> default:  -- Graphics IP:        127.0.0.1
+==> default:  -- Graphics Password:  Not defined
+==> default:  -- Graphics Websocket: 5700
+==> default: Waiting for domain to get an IP address...
+==> default: Waiting for machine to boot. This may take a few minutes...
+    default: SSH address: 192.168.121.75:22
+    default: SSH username: vagrant
+    default: SSH auth method: private key
+    default: Warning: Connection refused. Retrying...
+    default: 
+    default: Vagrant insecure key detected. Vagrant will automatically replace
+    default: this with a newly generated keypair for better security.
+    default: 
+    default: Inserting generated public key within guest...
+    default: Removing insecure key from the guest if it's present...
+    default: Key inserted! Disconnecting and reconnecting using new SSH key...
+==> default: Machine booted and ready!
+==> default: Running provisioner: shell...
+    default: Running: inline script
+    default: Fri Sep  1 10:20:21 UTC 2023
+    default: t1: 1693563714850428
+    default: p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+    default: p 1, w 3, l 0 : ping -P icmp-echo -c 1 1.1.1.1
+    default: p 2, w 2, l 0 : ping -P icmp-echo -c 1 51.68.136.1
+    default: p 3, w 1, l 0 : ping -P icmp-echo -c 1 195.182.218.134
+    default: p 4, w 0, l 0 : ping -P icmp-echo -c 1 91.121.131.150
+    default: done
+    default: t2: 1693563716653790
+==> default: Attempting graceful shutdown of VM...
+==> default: Removing domain...
+==> default: Deleting the machine folder
+Removing box 'generic/ubuntu1604' (v4.2.16) with provider 'libvirt'...
+Vagrant-libvirt plugin removed box only from /home/debian/.vagrant.d/boxes directory
+From Libvirt storage pool you have to delete image manually(virsh, virt-manager or by any other tool)
+
+1693563538.4508312,1693563539.2583864,1693563734.3537765,
+t0: 1693563539298
+Bringing machine 'default' up with 'libvirt' provider...
+==> default: Box 'generic/ubuntu1604' could not be found. Attempting to find and install...
+    default: Box Provider: libvirt
+    default: Box Version: >= 0
+==> default: Loading metadata for box 'generic/ubuntu1604'
+    default: URL: https://vagrantcloud.com/generic/ubuntu1604
+==> default: Adding box 'generic/ubuntu1604' (v4.2.16) for provider: libvirt
+    default: Downloading: https://vagrantcloud.com/generic/boxes/ubuntu1604/versions/4.2.16/providers/libvirt.box
+[KProgress: 0% (Rate: 0*/s, Estimated time remaining: --:--:--)[KProgress: 100% (Rate: 244/s, Estimated time remaining: --:--:--)[KProgress: 100% (Rate: 232/s, Estimated time remaining: --:--:--)[KProgress: 100% (Rate: 0/s, Estimated time remaining: --:--:--)[KProgress: 0% (Rate: 0{/s, Estimated time remaining: --:--:--)[KProgress: 0% (Rate: 9.8M/s, Estimated time remaining: 0:06:04)[KProgress: 5% (Rate: 26.4M/s, Estimated time remaining: 0:01:20)[KProgress: 9% (Rate: 32.0M/s, Estimated time remaining: 0:00:51)[KProgress: 13% (Rate: 34.8M/s, Estimated time remaining: 0:00:39)[KProgress: 18% (Rate: 36.6M/s, Estimated time remaining: 0:00:32)[KProgress: 22% (Rate: 43.0M/s, Estimated time remaining: 0:00:28)[KProgress: 27% (Rate: 43.7M/s, Estimated time remaining: 0:00:24)[KProgress: 31% (Rate: 44.0M/s, Estimated time remaining: 0:00:22)[KProgress: 36% (Rate: 44.5M/s, Estimated time remaining: 0:00:19)[KProgress: 40% (Rate: 44.7M/s, Estimated time remaining: 0:00:17)[KProgress: 45% (Rate: 44.7M/s, Estimated time remaining: 0:00:16)[KProgress: 49% (Rate: 44.8M/s, Estimated time remaining: 0:00:14)[KProgress: 54% (Rate: 45.0M/s, Estimated time remaining: 0:00:12)[KProgress: 59% (Rate: 45.0M/s, Estimated time remaining: 0:00:11)[KProgress: 63% (Rate: 45.1M/s, Estimated time remaining: 0:00:10)[KProgress: 68% (Rate: 45.0M/s, Estimated time remaining: 0:00:08)[KProgress: 72% (Rate: 44.9M/s, Estimated time remaining: 0:00:07)[KProgress: 77% (Rate: 44.7M/s, Estimated time remaining: 0:00:06)[KProgress: 81% (Rate: 44.5M/s, Estimated time remaining: 0:00:04)[KProgress: 86% (Rate: 44.6M/s, Estimated time remaining: 0:00:03)[KProgress: 90% (Rate: 44.8M/s, Estimated time remaining: 0:00:02)[KProgress: 95% (Rate: 44.9M/s, Estimated time remaining: 0:00:01)[KProgress: 99% (Rate: 45.0M/s, Estimated time remaining: --:--:--)[K    default: Calculating and comparing box checksum...
+==> default: Successfully added box 'generic/ubuntu1604' (v4.2.16) for 'libvirt'!
+==> default: Creating image (snapshot of base box volume).
+==> default: Creating domain with the following settings...
+==> default:  -- Name:              debian_default
+==> default:  -- Description:       Source: /home/debian/Vagrantfile
+==> default:  -- Domain type:       kvm
+==> default:  -- Cpus:              1
+==> default:  -- Feature:           acpi
+==> default:  -- Feature:           apic
+==> default:  -- Feature:           pae
+==> default:  -- Clock offset:      utc
+==> default:  -- Memory:            1024M
+==> default:  -- Base box:          generic/ubuntu1604
+==> default:  -- Storage pool:      default
+==> default:  -- Image(vda):        /var/lib/libvirt/images/debian_default.img, virtio, 128G
+==> default:  -- Disk driver opts:  cache='default'
+==> default:  -- Graphics Type:     vnc
+==> default:  -- Video Type:        cirrus
+==> default:  -- Video VRAM:        256
+==> default:  -- Video 3D accel:    false
+==> default:  -- Keymap:            en-us
+==> default:  -- TPM Backend:       passthrough
+==> default:  -- INPUT:             type=mouse, bus=ps2
+==> default: Creating shared folders metadata...
+==> default: Starting domain.
+==> default: Domain launching with graphics connection settings...
+==> default:  -- Graphics Port:      5900
+==> default:  -- Graphics IP:        127.0.0.1
+==> default:  -- Graphics Password:  Not defined
+==> default:  -- Graphics Websocket: 5700
+==> default: Waiting for domain to get an IP address...
+==> default: Waiting for machine to boot. This may take a few minutes...
+    default: SSH address: 192.168.121.42:22
+    default: SSH username: vagrant
+    default: SSH auth method: private key
+    default: 
+    default: Vagrant insecure key detected. Vagrant will automatically replace
+    default: this with a newly generated keypair for better security.
+    default: 
+    default: Inserting generated public key within guest...
+    default: Removing insecure key from the guest if it's present...
+    default: Key inserted! Disconnecting and reconnecting using new SSH key...
+==> default: Machine booted and ready!
+==> default: Running provisioner: shell...
+    default: Running: inline script
+    default: Fri Sep  1 10:20:24 UTC 2023
+    default: t1: 1693563716841126
+    default: p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+    default: p 1, w 3, l 0 : ping -P icmp-echo -c 1 1.1.1.1
+    default: p 2, w 2, l 0 : ping -P icmp-echo -c 1 51.254.32.1
+    default: p 3, w 1, l 0 : ping -P icmp-echo -c 1 172.71.248.3
+    default: p 4, w 0, l 0 : ping -P icmp-echo -c 1 91.121.215.197
+    default: done
+    default: t2: 1693563721646448
+==> default: Attempting graceful shutdown of VM...
+==> default: Removing domain...
+==> default: Deleting the machine folder
+Removing box 'generic/ubuntu1604' (v4.2.16) with provider 'libvirt'...
+Vagrant-libvirt plugin removed box only from /home/debian/.vagrant.d/boxes directory
+From Libvirt storage pool you have to delete image manually(virsh, virt-manager or by any other tool)
+
+1693563541.7491293,1693563545.9311297,1693563810.3492875,
+t0: 1693563546308
+Bringing machine 'default' up with 'libvirt' provider...
+==> default: Box 'generic/ubuntu1604' could not be found. Attempting to find and install...
+    default: Box Provider: libvirt
+    default: Box Version: >= 0
+==> default: Loading metadata for box 'generic/ubuntu1604'
+    default: URL: https://vagrantcloud.com/generic/ubuntu1604
+==> default: Adding box 'generic/ubuntu1604' (v4.2.16) for provider: libvirt
+    default: Downloading: https://vagrantcloud.com/generic/boxes/ubuntu1604/versions/4.2.16/providers/libvirt.box
+[KProgress: 0% (Rate: 0*/s, Estimated time remaining: --:--:--)[KProgress: 100% (Rate: 269/s, Estimated time remaining: --:--:--)[KProgress: 100% (Rate: 240/s, Estimated time remaining: --:--:--)[KProgress: 100% (Rate: 0/s, Estimated time remaining: --:--:--)[KProgress: 0% (Rate: 1199k/s, Estimated time remaining: 0:14:00)[KProgress: 2% (Rate: 20.7M/s, Estimated time remaining: 0:02:36)[KProgress: 4% (Rate: 20.9M/s, Estimated time remaining: 0:01:42)[KProgress: 6% (Rate: 21.6M/s, Estimated time remaining: 0:01:19)[KProgress: 9% (Rate: 22.5M/s, Estimated time remaining: 0:01:06)[KProgress: 11% (Rate: 22.5M/s, Estimated time remaining: 0:00:59)[KProgress: 14% (Rate: 22.9M/s, Estimated time remaining: 0:00:54)[KProgress: 16% (Rate: 23.1M/s, Estimated time remaining: 0:00:51)[KProgress: 18% (Rate: 23.1M/s, Estimated time remaining: 0:00:48)[KProgress: 21% (Rate: 22.9M/s, Estimated time remaining: 0:00:45)[KProgress: 23% (Rate: 23.4M/s, Estimated time remaining: 0:00:42)[KProgress: 26% (Rate: 23.8M/s, Estimated time remaining: 0:00:40)[KProgress: 28% (Rate: 24.4M/s, Estimated time remaining: 0:00:37)[KProgress: 30% (Rate: 24.5M/s, Estimated time remaining: 0:00:36)[KProgress: 33% (Rate: 24.6M/s, Estimated time remaining: 0:00:34)[KProgress: 35% (Rate: 24.3M/s, Estimated time remaining: 0:00:32)[KProgress: 38% (Rate: 24.2M/s, Estimated time remaining: 0:00:31)[KProgress: 40% (Rate: 23.9M/s, Estimated time remaining: 0:00:29)[KProgress: 43% (Rate: 24.2M/s, Estimated time remaining: 0:00:28)[KProgress: 45% (Rate: 24.2M/s, Estimated time remaining: 0:00:26)[KProgress: 48% (Rate: 24.5M/s, Estimated time remaining: 0:00:25)[KProgress: 50% (Rate: 24.6M/s, Estimated time remaining: 0:00:23)[KProgress: 53% (Rate: 24.9M/s, Estimated time remaining: 0:00:22)[KProgress: 55% (Rate: 24.8M/s, Estimated time remaining: 0:00:21)[KProgress: 58% (Rate: 24.8M/s, Estimated time remaining: 0:00:19)[KProgress: 60% (Rate: 25.0M/s, Estimated time remaining: 0:00:18)[KProgress: 63% (Rate: 24.9M/s, Estimated time remaining: 0:00:17)[KProgress: 65% (Rate: 24.7M/s, Estimated time remaining: 0:00:16)[KProgress: 68% (Rate: 24.8M/s, Estimated time remaining: 0:00:15)[KProgress: 71% (Rate: 24.8M/s, Estimated time remaining: 0:00:13)[KProgress: 73% (Rate: 24.7M/s, Estimated time remaining: 0:00:12)[KProgress: 75% (Rate: 24.6M/s, Estimated time remaining: 0:00:11)[KProgress: 78% (Rate: 24.5M/s, Estimated time remaining: 0:00:10)[KProgress: 80% (Rate: 24.5M/s, Estimated time remaining: 0:00:09)[KProgress: 83% (Rate: 24.5M/s, Estimated time remaining: 0:00:08)[KProgress: 85% (Rate: 24.3M/s, Estimated time remaining: 0:00:07)[KProgress: 88% (Rate: 24.4M/s, Estimated time remaining: 0:00:05)[KProgress: 90% (Rate: 24.6M/s, Estimated time remaining: 0:00:04)[KProgress: 93% (Rate: 24.5M/s, Estimated time remaining: 0:00:03)[KProgress: 95% (Rate: 24.6M/s, Estimated time remaining: 0:00:02)[KProgress: 98% (Rate: 24.7M/s, Estimated time remaining: 0:00:01)[K    default: Calculating and comparing box checksum...
+==> default: Successfully added box 'generic/ubuntu1604' (v4.2.16) for 'libvirt'!
+==> default: Creating image (snapshot of base box volume).
+==> default: Creating domain with the following settings...
+==> default:  -- Name:              debian_default
+==> default:  -- Description:       Source: /home/debian/Vagrantfile
+==> default:  -- Domain type:       kvm
+==> default:  -- Cpus:              1
+==> default:  -- Feature:           acpi
+==> default:  -- Feature:           apic
+==> default:  -- Feature:           pae
+==> default:  -- Clock offset:      utc
+==> default:  -- Memory:            1024M
+==> default:  -- Base box:          generic/ubuntu1604
+==> default:  -- Storage pool:      default
+==> default:  -- Image(vda):        /var/lib/libvirt/images/debian_default.img, virtio, 128G
+==> default:  -- Disk driver opts:  cache='default'
+==> default:  -- Graphics Type:     vnc
+==> default:  -- Video Type:        cirrus
+==> default:  -- Video VRAM:        256
+==> default:  -- Video 3D accel:    false
+==> default:  -- Keymap:            en-us
+==> default:  -- TPM Backend:       passthrough
+==> default:  -- INPUT:             type=mouse, bus=ps2
+==> default: Creating shared folders metadata...
+==> default: Starting domain.
+==> default: Domain launching with graphics connection settings...
+==> default:  -- Graphics Port:      5900
+==> default:  -- Graphics IP:        127.0.0.1
+==> default:  -- Graphics Password:  Not defined
+==> default:  -- Graphics Websocket: 5700
+==> default: Waiting for domain to get an IP address...
+==> default: Waiting for machine to boot. This may take a few minutes...
+    default: SSH address: 192.168.121.35:22
+    default: SSH username: vagrant
+    default: SSH auth method: private key
+    default: 
+    default: Vagrant insecure key detected. Vagrant will automatically replace
+    default: this with a newly generated keypair for better security.
+    default: 
+    default: Inserting generated public key within guest...
+    default: Removing insecure key from the guest if it's present...
+    default: Key inserted! Disconnecting and reconnecting using new SSH key...
+==> default: Machine booted and ready!
+==> default: Running provisioner: shell...
+    default: Running: inline script
+    default: Fri Sep  1 10:20:52 UTC 2023
+    default: t1: 1693563792274118
+    default: p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+    default: p 1, w 4, l 0 : ping -P icmp-echo -c 1 1.1.1.1
+    default: p 2, w 3, l 0 : ping -P icmp-echo -c 1 139.99.196.1
+    default: p 3, w 2, l 0 : ping -P icmp-echo -c 1 172.69.60.3
+    default: p 4, w 1, l 0 : ping -P icmp-echo -c 1 218.100.52.11
+    default: p 5, w 0, l 0 : ping -P icmp-echo -c 1 103.5.14.218
+    default: p 1, w 0, l 0 : trace -f 9 -P icmp-paris -U 1 -w 1 -q 3 -g 5 172.69.60.3
+    default: done
+    default: t2: 1693563794279650
+==> default: Attempting graceful shutdown of VM...
+==> default: Removing domain...
+==> default: Deleting the machine folder
+Removing box 'generic/ubuntu1604' (v4.2.16) with provider 'libvirt'...
+Vagrant-libvirt plugin removed box only from /home/debian/.vagrant.d/boxes directory
+From Libvirt storage pool you have to delete image manually(virsh, virt-manager or by any other tool)
+
+1693563537.7021456,1693563540.8850029,1693563829.7631595,
+t0: 1693563541131
+Bringing machine 'default' up with 'libvirt' provider...
+==> default: Box 'generic/ubuntu1604' could not be found. Attempting to find and install...
+    default: Box Provider: libvirt
+    default: Box Version: >= 0
+==> default: Loading metadata for box 'generic/ubuntu1604'
+    default: URL: https://vagrantcloud.com/generic/ubuntu1604
+==> default: Adding box 'generic/ubuntu1604' (v4.2.16) for provider: libvirt
+    default: Downloading: https://vagrantcloud.com/generic/boxes/ubuntu1604/versions/4.2.16/providers/libvirt.box
+[KProgress: 0% (Rate: 0*/s, Estimated time remaining: --:--:--)[KProgress: 0% (Rate: 0*/s, Estimated time remaining: --:--:--)[KProgress: 100% (Rate: 162/s, Estimated time remaining: --:--:--)[KProgress: 100% (Rate: 182/s, Estimated time remaining: --:--:--)[KProgress: 100% (Rate: 0/s, Estimated time remaining: --:--:--)[KProgress: 0% (Rate: 0}/s, Estimated time remaining: --:--:--)[KProgress: 0% (Rate: 200k/s, Estimated time remaining: 1:23:51)[KProgress: 1% (Rate: 12.3M/s, Estimated time remaining: 0:06:38)[KProgress: 2% (Rate: 13.2M/s, Estimated time remaining: 0:03:17)[KProgress: 4% (Rate: 14.5M/s, Estimated time remaining: 0:02:19)[KProgress: 6% (Rate: 15.5M/s, Estimated time remaining: 0:01:51)[KProgress: 8% (Rate: 16.1M/s, Estimated time remaining: 0:01:35)[KProgress: 9% (Rate: 17.2M/s, Estimated time remaining: 0:01:25)[KProgress: 11% (Rate: 18.5M/s, Estimated time remaining: 0:01:16)[KProgress: 13% (Rate: 18.9M/s, Estimated time remaining: 0:01:11)[KProgress: 15% (Rate: 19.0M/s, Estimated time remaining: 0:01:06)[KProgress: 17% (Rate: 19.3M/s, Estimated time remaining: 0:01:02)[KProgress: 19% (Rate: 19.5M/s, Estimated time remaining: 0:00:58)[KProgress: 21% (Rate: 19.5M/s, Estimated time remaining: 0:00:55)[KProgress: 23% (Rate: 19.7M/s, Estimated time remaining: 0:00:52)[KProgress: 25% (Rate: 20.1M/s, Estimated time remaining: 0:00:49)[KProgress: 27% (Rate: 19.8M/s, Estimated time remaining: 0:00:47)[KProgress: 29% (Rate: 20.0M/s, Estimated time remaining: 0:00:45)[KProgress: 31% (Rate: 20.1M/s, Estimated time remaining: 0:00:43)[KProgress: 33% (Rate: 19.4M/s, Estimated time remaining: 0:00:42)[KProgress: 35% (Rate: 19.2M/s, Estimated time remaining: 0:00:40)[KProgress: 37% (Rate: 19.5M/s, Estimated time remaining: 0:00:38)[KProgress: 39% (Rate: 19.3M/s, Estimated time remaining: 0:00:37)[KProgress: 41% (Rate: 19.2M/s, Estimated time remaining: 0:00:35)[KProgress: 43% (Rate: 19.8M/s, Estimated time remaining: 0:00:34)[KProgress: 45% (Rate: 19.8M/s, Estimated time remaining: 0:00:32)[KProgress: 47% (Rate: 19.8M/s, Estimated time remaining: 0:00:31)[KProgress: 49% (Rate: 19.8M/s, Estimated time remaining: 0:00:29)[KProgress: 51% (Rate: 19.8M/s, Estimated time remaining: 0:00:28)[KProgress: 53% (Rate: 19.8M/s, Estimated time remaining: 0:00:27)[KProgress: 55% (Rate: 20.0M/s, Estimated time remaining: 0:00:25)[KProgress: 57% (Rate: 20.1M/s, Estimated time remaining: 0:00:24)[KProgress: 60% (Rate: 20.4M/s, Estimated time remaining: 0:00:23)[KProgress: 62% (Rate: 20.5M/s, Estimated time remaining: 0:00:21)[KProgress: 64% (Rate: 20.6M/s, Estimated time remaining: 0:00:20)[KProgress: 66% (Rate: 19.9M/s, Estimated time remaining: 0:00:19)[KProgress: 68% (Rate: 19.7M/s, Estimated time remaining: 0:00:18)[KProgress: 70% (Rate: 19.6M/s, Estimated time remaining: 0:00:17)[KProgress: 72% (Rate: 19.5M/s, Estimated time remaining: 0:00:15)[KProgress: 74% (Rate: 19.4M/s, Estimated time remaining: 0:00:14)[KProgress: 76% (Rate: 20.0M/s, Estimated time remaining: 0:00:13)[KProgress: 78% (Rate: 20.0M/s, Estimated time remaining: 0:00:12)[KProgress: 80% (Rate: 20.0M/s, Estimated time remaining: 0:00:11)[KProgress: 82% (Rate: 20.0M/s, Estimated time remaining: 0:00:10)[KProgress: 84% (Rate: 20.0M/s, Estimated time remaining: 0:00:08)[KProgress: 86% (Rate: 19.9M/s, Estimated time remaining: 0:00:07)[KProgress: 88% (Rate: 19.9M/s, Estimated time remaining: 0:00:06)[KProgress: 90% (Rate: 19.9M/s, Estimated time remaining: 0:00:05)[KProgress: 92% (Rate: 20.1M/s, Estimated time remaining: 0:00:04)[KProgress: 94% (Rate: 20.2M/s, Estimated time remaining: 0:00:03)[KProgress: 96% (Rate: 20.4M/s, Estimated time remaining: 0:00:02)[KProgress: 98% (Rate: 20.5M/s, Estimated time remaining: 0:00:01)[K    default: Calculating and comparing box checksum...
+==> default: Successfully added box 'generic/ubuntu1604' (v4.2.16) for 'libvirt'!
+==> default: Creating image (snapshot of base box volume).
+==> default: Creating domain with the following settings...
+==> default:  -- Name:              debian_default
+==> default:  -- Description:       Source: /home/debian/Vagrantfile
+==> default:  -- Domain type:       kvm
+==> default:  -- Cpus:              1
+==> default:  -- Feature:           acpi
+==> default:  -- Feature:           apic
+==> default:  -- Feature:           pae
+==> default:  -- Clock offset:      utc
+==> default:  -- Memory:            1024M
+==> default:  -- Base box:          generic/ubuntu1604
+==> default:  -- Storage pool:      default
+==> default:  -- Image(vda):        /var/lib/libvirt/images/debian_default.img, virtio, 128G
+==> default:  -- Disk driver opts:  cache='default'
+==> default:  -- Graphics Type:     vnc
+==> default:  -- Video Type:        cirrus
+==> default:  -- Video VRAM:        256
+==> default:  -- Video 3D accel:    false
+==> default:  -- Keymap:            en-us
+==> default:  -- TPM Backend:       passthrough
+==> default:  -- INPUT:             type=mouse, bus=ps2
+==> default: Creating shared folders metadata...
+==> default: Starting domain.
+==> default: Domain launching with graphics connection settings...
+==> default:  -- Graphics Port:      5900
+==> default:  -- Graphics IP:        127.0.0.1
+==> default:  -- Graphics Password:  Not defined
+==> default:  -- Graphics Websocket: 5700
+==> default: Waiting for domain to get an IP address...
+==> default: Waiting for machine to boot. This may take a few minutes...
+    default: SSH address: 192.168.121.133:22
+    default: SSH username: vagrant
+    default: SSH auth method: private key
+    default: 
+    default: Vagrant insecure key detected. Vagrant will automatically replace
+    default: this with a newly generated keypair for better security.
+    default: 
+    default: Inserting generated public key within guest...
+    default: Removing insecure key from the guest if it's present...
+    default: Key inserted! Disconnecting and reconnecting using new SSH key...
+==> default: Machine booted and ready!
+==> default: Running provisioner: shell...
+    default: Running: inline script
+    default: Fri Sep  1 10:21:01 UTC 2023
+    default: t1: 1693563813543786
+    default: p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 1.1.1.1
+    default: p 1, w 4, l 0 : ping -P icmp-echo -c 1 1.1.1.1
+    default: p 2, w 3, l 0 : ping -P icmp-echo -c 1 15.235.141.1
+    default: p 3, w 2, l 0 : ping -P icmp-echo -c 1 162.158.39.5
+    default: p 4, w 1, l 0 : ping -P icmp-echo -c 1 103.5.15.16
+    default: p 5, w 0, l 0 : ping -P icmp-echo -c 1 103.231.152.33
+    default: p 1, w 0, l 0 : trace -f 9 -P icmp-paris -U 1 -w 1 -q 3 -g 5 162.158.39.5
+    default: done
+    default: t2: 1693563816550700
+==> default: Attempting graceful shutdown of VM...
+==> default: Removing domain...
+==> default: Deleting the machine folder
+Removing box 'generic/ubuntu1604' (v4.2.16) with provider 'libvirt'...
+Vagrant-libvirt plugin removed box only from /home/debian/.vagrant.d/boxes directory
+From Libvirt storage pool you have to delete image manually(virsh, virt-manager or by any other tool)
+

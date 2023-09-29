@@ -1,0 +1,3 @@
+$(eval $(call addlib,apputnt))
+
+APPUTNT_SRCS-y += $(APPUTNT_BASE)/main.c

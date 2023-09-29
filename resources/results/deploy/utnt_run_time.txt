@@ -1,0 +1,720 @@
+Command exited with non-zero status 83
+	Command being timed: "qemu-system-x86_64 -s -netdev bridge,id=en1,br=virbr0 -device virtio-net-pci,netdev=en1 -device isa-debug-exit -kernel app-utnt_qemu-x86_64 -append netdev.ipv4_addr=10.0.122.2 netdev.ipv4_gw_addr=10.0.122.1 netdev.ipv4_subnet_mask=255.255.255.0 -- 10.0.122.2 sc_tnt -i 1.1.1.1 -p 12345 -o out.warts -cpu host --enable-kvm -m 8 -no-acpi -display none -nographic"
+	User time (seconds): 0.35
+	System time (seconds): 0.11
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.04
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 58880
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6385
+	Voluntary context switches: 535
+	Involuntary context switches: 142
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 83
+Command exited with non-zero status 83
+	Command being timed: "qemu-system-x86_64 -s -netdev bridge,id=en1,br=virbr0 -device virtio-net-pci,netdev=en1 -device isa-debug-exit -kernel app-utnt_qemu-x86_64 -append netdev.ipv4_addr=10.0.122.2 netdev.ipv4_gw_addr=10.0.122.1 netdev.ipv4_subnet_mask=255.255.255.0 -- 10.0.122.2 sc_tnt -i 1.1.1.1 -p 12345 -o out.warts -cpu host --enable-kvm -m 8 -no-acpi -display none -nographic"
+	User time (seconds): 0.39
+	System time (seconds): 0.08
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.01
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 62444
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6374
+	Voluntary context switches: 558
+	Involuntary context switches: 157
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 83
+Command exited with non-zero status 83
+	Command being timed: "qemu-system-x86_64 -s -netdev bridge,id=en1,br=virbr0 -device virtio-net-pci,netdev=en1 -device isa-debug-exit -kernel app-utnt_qemu-x86_64 -append netdev.ipv4_addr=10.0.122.2 netdev.ipv4_gw_addr=10.0.122.1 netdev.ipv4_subnet_mask=255.255.255.0 -- 10.0.122.2 sc_tnt -i 1.1.1.1 -p 12345 -o out.warts -cpu host --enable-kvm -m 8 -no-acpi -display none -nographic"
+	User time (seconds): 0.36
+	System time (seconds): 0.11
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.02
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 67456
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6374
+	Voluntary context switches: 539
+	Involuntary context switches: 146
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 83
+Command exited with non-zero status 83
+	Command being timed: "qemu-system-x86_64 -s -netdev bridge,id=en1,br=virbr0 -device virtio-net-pci,netdev=en1 -device isa-debug-exit -kernel app-utnt_qemu-x86_64 -append netdev.ipv4_addr=10.0.122.2 netdev.ipv4_gw_addr=10.0.122.1 netdev.ipv4_subnet_mask=255.255.255.0 -- 10.0.122.2 sc_tnt -i 1.1.1.1 -p 12345 -o out.warts -cpu host --enable-kvm -m 8 -no-acpi -display none -nographic"
+	User time (seconds): 0.37
+	System time (seconds): 0.10
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.03
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 65404
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6372
+	Voluntary context switches: 538
+	Involuntary context switches: 146
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 83
+Command exited with non-zero status 83
+	Command being timed: "qemu-system-x86_64 -s -netdev bridge,id=en1,br=virbr0 -device virtio-net-pci,netdev=en1 -device isa-debug-exit -kernel app-utnt_qemu-x86_64 -append netdev.ipv4_addr=10.0.122.2 netdev.ipv4_gw_addr=10.0.122.1 netdev.ipv4_subnet_mask=255.255.255.0 -- 10.0.122.2 sc_tnt -i 1.1.1.1 -p 12345 -o out.warts -cpu host --enable-kvm -m 8 -no-acpi -display none -nographic"
+	User time (seconds): 0.38
+	System time (seconds): 0.09
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.02
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 64172
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6378
+	Voluntary context switches: 553
+	Involuntary context switches: 156
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 83
+Command exited with non-zero status 83
+	Command being timed: "qemu-system-x86_64 -s -netdev bridge,id=en1,br=virbr0 -device virtio-net-pci,netdev=en1 -device isa-debug-exit -kernel app-utnt_qemu-x86_64 -append netdev.ipv4_addr=10.0.122.2 netdev.ipv4_gw_addr=10.0.122.1 netdev.ipv4_subnet_mask=255.255.255.0 -- 10.0.122.2 sc_tnt -i 1.1.1.1 -p 12345 -o out.warts -cpu host --enable-kvm -m 8 -no-acpi -display none -nographic"
+	User time (seconds): 0.37
+	System time (seconds): 0.10
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.04
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 64908
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6380
+	Voluntary context switches: 565
+	Involuntary context switches: 160
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 83
+Command exited with non-zero status 83
+	Command being timed: "qemu-system-x86_64 -s -netdev bridge,id=en1,br=virbr0 -device virtio-net-pci,netdev=en1 -device isa-debug-exit -kernel app-utnt_qemu-x86_64 -append netdev.ipv4_addr=10.0.122.2 netdev.ipv4_gw_addr=10.0.122.1 netdev.ipv4_subnet_mask=255.255.255.0 -- 10.0.122.2 sc_tnt -i 1.1.1.1 -p 12345 -o out.warts -cpu host --enable-kvm -m 8 -no-acpi -display none -nographic"
+	User time (seconds): 0.36
+	System time (seconds): 0.11
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.01
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 62788
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6385
+	Voluntary context switches: 546
+	Involuntary context switches: 152
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 83
+Command exited with non-zero status 83
+	Command being timed: "qemu-system-x86_64 -s -netdev bridge,id=en1,br=virbr0 -device virtio-net-pci,netdev=en1 -device isa-debug-exit -kernel app-utnt_qemu-x86_64 -append netdev.ipv4_addr=10.0.122.2 netdev.ipv4_gw_addr=10.0.122.1 netdev.ipv4_subnet_mask=255.255.255.0 -- 10.0.122.2 sc_tnt -i 1.1.1.1 -p 12345 -o out.warts -cpu host --enable-kvm -m 8 -no-acpi -display none -nographic"
+	User time (seconds): 0.38
+	System time (seconds): 0.09
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.02
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 62304
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6387
+	Voluntary context switches: 546
+	Involuntary context switches: 151
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 83
+Command exited with non-zero status 83
+	Command being timed: "qemu-system-x86_64 -s -netdev bridge,id=en1,br=virbr0 -device virtio-net-pci,netdev=en1 -device isa-debug-exit -kernel app-utnt_qemu-x86_64 -append netdev.ipv4_addr=10.0.122.2 netdev.ipv4_gw_addr=10.0.122.1 netdev.ipv4_subnet_mask=255.255.255.0 -- 10.0.122.2 sc_tnt -i 1.1.1.1 -p 12345 -o out.warts -cpu host --enable-kvm -m 8 -no-acpi -display none -nographic"
+	User time (seconds): 0.35
+	System time (seconds): 0.12
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.03
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 63316
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6381
+	Voluntary context switches: 534
+	Involuntary context switches: 154
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 83
+Command exited with non-zero status 83
+	Command being timed: "qemu-system-x86_64 -s -netdev bridge,id=en1,br=virbr0 -device virtio-net-pci,netdev=en1 -device isa-debug-exit -kernel app-utnt_qemu-x86_64 -append netdev.ipv4_addr=10.0.122.2 netdev.ipv4_gw_addr=10.0.122.1 netdev.ipv4_subnet_mask=255.255.255.0 -- 10.0.122.2 sc_tnt -i 1.1.1.1 -p 12345 -o out.warts -cpu host --enable-kvm -m 8 -no-acpi -display none -nographic"
+	User time (seconds): 0.38
+	System time (seconds): 0.10
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.03
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 63232
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6381
+	Voluntary context switches: 551
+	Involuntary context switches: 153
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 83
+Command exited with non-zero status 83
+	Command being timed: "qemu-system-x86_64 -s -netdev bridge,id=en1,br=virbr0 -device virtio-net-pci,netdev=en1 -device isa-debug-exit -kernel app-utnt_qemu-x86_64 -append netdev.ipv4_addr=10.0.122.2 netdev.ipv4_gw_addr=10.0.122.1 netdev.ipv4_subnet_mask=255.255.255.0 -- 10.0.122.2 sc_tnt -i 1.1.1.1 -p 12345 -o out.warts -cpu host --enable-kvm -m 8 -no-acpi -display none -nographic"
+	User time (seconds): 0.35
+	System time (seconds): 0.12
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.01
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 66424
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6478
+	Voluntary context switches: 563
+	Involuntary context switches: 147
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 83
+Command exited with non-zero status 83
+	Command being timed: "qemu-system-x86_64 -s -netdev bridge,id=en1,br=virbr0 -device virtio-net-pci,netdev=en1 -device isa-debug-exit -kernel app-utnt_qemu-x86_64 -append netdev.ipv4_addr=10.0.122.2 netdev.ipv4_gw_addr=10.0.122.1 netdev.ipv4_subnet_mask=255.255.255.0 -- 10.0.122.2 sc_tnt -i 1.1.1.1 -p 12345 -o out.warts -cpu host --enable-kvm -m 8 -no-acpi -display none -nographic"
+	User time (seconds): 0.40
+	System time (seconds): 0.07
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.02
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 63760
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6388
+	Voluntary context switches: 538
+	Involuntary context switches: 141
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 83
+Command exited with non-zero status 83
+	Command being timed: "qemu-system-x86_64 -s -netdev bridge,id=en1,br=virbr0 -device virtio-net-pci,netdev=en1 -device isa-debug-exit -kernel app-utnt_qemu-x86_64 -append netdev.ipv4_addr=10.0.122.2 netdev.ipv4_gw_addr=10.0.122.1 netdev.ipv4_subnet_mask=255.255.255.0 -- 10.0.122.2 sc_tnt -i 1.1.1.1 -p 12345 -o out.warts -cpu host --enable-kvm -m 8 -no-acpi -display none -nographic"
+	User time (seconds): 0.37
+	System time (seconds): 0.10
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.02
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 64580
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6378
+	Voluntary context switches: 556
+	Involuntary context switches: 159
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 83
+Command exited with non-zero status 83
+	Command being timed: "qemu-system-x86_64 -s -netdev bridge,id=en1,br=virbr0 -device virtio-net-pci,netdev=en1 -device isa-debug-exit -kernel app-utnt_qemu-x86_64 -append netdev.ipv4_addr=10.0.122.2 netdev.ipv4_gw_addr=10.0.122.1 netdev.ipv4_subnet_mask=255.255.255.0 -- 10.0.122.2 sc_tnt -i 1.1.1.1 -p 12345 -o out.warts -cpu host --enable-kvm -m 8 -no-acpi -display none -nographic"
+	User time (seconds): 0.35
+	System time (seconds): 0.12
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.04
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 65436
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6372
+	Voluntary context switches: 555
+	Involuntary context switches: 153
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 83
+Command exited with non-zero status 83
+	Command being timed: "qemu-system-x86_64 -s -netdev bridge,id=en1,br=virbr0 -device virtio-net-pci,netdev=en1 -device isa-debug-exit -kernel app-utnt_qemu-x86_64 -append netdev.ipv4_addr=10.0.122.2 netdev.ipv4_gw_addr=10.0.122.1 netdev.ipv4_subnet_mask=255.255.255.0 -- 10.0.122.2 sc_tnt -i 1.1.1.1 -p 12345 -o out.warts -cpu host --enable-kvm -m 8 -no-acpi -display none -nographic"
+	User time (seconds): 0.36
+	System time (seconds): 0.11
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.04
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 65660
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6376
+	Voluntary context switches: 534
+	Involuntary context switches: 150
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 83
+Command exited with non-zero status 83
+	Command being timed: "qemu-system-x86_64 -s -netdev bridge,id=en1,br=virbr0 -device virtio-net-pci,netdev=en1 -device isa-debug-exit -kernel app-utnt_qemu-x86_64 -append netdev.ipv4_addr=10.0.122.2 netdev.ipv4_gw_addr=10.0.122.1 netdev.ipv4_subnet_mask=255.255.255.0 -- 10.0.122.2 sc_tnt -i 1.1.1.1 -p 12345 -o out.warts -cpu host --enable-kvm -m 8 -no-acpi -display none -nographic"
+	User time (seconds): 0.33
+	System time (seconds): 0.14
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.04
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 62760
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6378
+	Voluntary context switches: 534
+	Involuntary context switches: 155
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 83
+Command exited with non-zero status 83
+	Command being timed: "qemu-system-x86_64 -s -netdev bridge,id=en1,br=virbr0 -device virtio-net-pci,netdev=en1 -device isa-debug-exit -kernel app-utnt_qemu-x86_64 -append netdev.ipv4_addr=10.0.122.2 netdev.ipv4_gw_addr=10.0.122.1 netdev.ipv4_subnet_mask=255.255.255.0 -- 10.0.122.2 sc_tnt -i 1.1.1.1 -p 12345 -o out.warts -cpu host --enable-kvm -m 8 -no-acpi -display none -nographic"
+	User time (seconds): 0.35
+	System time (seconds): 0.12
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.02
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 65724
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6377
+	Voluntary context switches: 551
+	Involuntary context switches: 156
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 83
+Command exited with non-zero status 83
+	Command being timed: "qemu-system-x86_64 -s -netdev bridge,id=en1,br=virbr0 -device virtio-net-pci,netdev=en1 -device isa-debug-exit -kernel app-utnt_qemu-x86_64 -append netdev.ipv4_addr=10.0.122.2 netdev.ipv4_gw_addr=10.0.122.1 netdev.ipv4_subnet_mask=255.255.255.0 -- 10.0.122.2 sc_tnt -i 1.1.1.1 -p 12345 -o out.warts -cpu host --enable-kvm -m 8 -no-acpi -display none -nographic"
+	User time (seconds): 0.39
+	System time (seconds): 0.08
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.05
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 63948
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6370
+	Voluntary context switches: 559
+	Involuntary context switches: 157
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 83
+Command exited with non-zero status 83
+	Command being timed: "qemu-system-x86_64 -s -netdev bridge,id=en1,br=virbr0 -device virtio-net-pci,netdev=en1 -device isa-debug-exit -kernel app-utnt_qemu-x86_64 -append netdev.ipv4_addr=10.0.122.2 netdev.ipv4_gw_addr=10.0.122.1 netdev.ipv4_subnet_mask=255.255.255.0 -- 10.0.122.2 sc_tnt -i 1.1.1.1 -p 12345 -o out.warts -cpu host --enable-kvm -m 8 -no-acpi -display none -nographic"
+	User time (seconds): 0.37
+	System time (seconds): 0.10
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.03
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 65192
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6373
+	Voluntary context switches: 530
+	Involuntary context switches: 158
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 83
+Command exited with non-zero status 83
+	Command being timed: "qemu-system-x86_64 -s -netdev bridge,id=en1,br=virbr0 -device virtio-net-pci,netdev=en1 -device isa-debug-exit -kernel app-utnt_qemu-x86_64 -append netdev.ipv4_addr=10.0.122.2 netdev.ipv4_gw_addr=10.0.122.1 netdev.ipv4_subnet_mask=255.255.255.0 -- 10.0.122.2 sc_tnt -i 1.1.1.1 -p 12345 -o out.warts -cpu host --enable-kvm -m 8 -no-acpi -display none -nographic"
+	User time (seconds): 0.36
+	System time (seconds): 0.11
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.02
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 64292
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6377
+	Voluntary context switches: 548
+	Involuntary context switches: 159
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 83
+Command exited with non-zero status 83
+	Command being timed: "qemu-system-x86_64 -s -netdev bridge,id=en1,br=virbr0 -device virtio-net-pci,netdev=en1 -device isa-debug-exit -kernel app-utnt_qemu-x86_64 -append netdev.ipv4_addr=10.0.122.2 netdev.ipv4_gw_addr=10.0.122.1 netdev.ipv4_subnet_mask=255.255.255.0 -- 10.0.122.2 sc_tnt -i 1.1.1.1 -p 12345 -o out.warts -cpu host --enable-kvm -m 8 -no-acpi -display none -nographic"
+	User time (seconds): 0.36
+	System time (seconds): 0.11
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.03
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 65340
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6384
+	Voluntary context switches: 535
+	Involuntary context switches: 158
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 83
+Command exited with non-zero status 83
+	Command being timed: "qemu-system-x86_64 -s -netdev bridge,id=en1,br=virbr0 -device virtio-net-pci,netdev=en1 -device isa-debug-exit -kernel app-utnt_qemu-x86_64 -append netdev.ipv4_addr=10.0.122.2 netdev.ipv4_gw_addr=10.0.122.1 netdev.ipv4_subnet_mask=255.255.255.0 -- 10.0.122.2 sc_tnt -i 1.1.1.1 -p 12345 -o out.warts -cpu host --enable-kvm -m 8 -no-acpi -display none -nographic"
+	User time (seconds): 0.34
+	System time (seconds): 0.13
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.01
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 63936
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6379
+	Voluntary context switches: 533
+	Involuntary context switches: 148
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 16
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 83
+Command exited with non-zero status 83
+	Command being timed: "qemu-system-x86_64 -s -netdev bridge,id=en1,br=virbr0 -device virtio-net-pci,netdev=en1 -device isa-debug-exit -kernel app-utnt_qemu-x86_64 -append netdev.ipv4_addr=10.0.122.2 netdev.ipv4_gw_addr=10.0.122.1 netdev.ipv4_subnet_mask=255.255.255.0 -- 10.0.122.2 sc_tnt -i 1.1.1.1 -p 12345 -o out.warts -cpu host --enable-kvm -m 8 -no-acpi -display none -nographic"
+	User time (seconds): 0.37
+	System time (seconds): 0.10
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.02
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 54796
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6378
+	Voluntary context switches: 534
+	Involuntary context switches: 148
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 83
+Command exited with non-zero status 83
+	Command being timed: "qemu-system-x86_64 -s -netdev bridge,id=en1,br=virbr0 -device virtio-net-pci,netdev=en1 -device isa-debug-exit -kernel app-utnt_qemu-x86_64 -append netdev.ipv4_addr=10.0.122.2 netdev.ipv4_gw_addr=10.0.122.1 netdev.ipv4_subnet_mask=255.255.255.0 -- 10.0.122.2 sc_tnt -i 1.1.1.1 -p 12345 -o out.warts -cpu host --enable-kvm -m 8 -no-acpi -display none -nographic"
+	User time (seconds): 0.37
+	System time (seconds): 0.10
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.03
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 52524
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6380
+	Voluntary context switches: 558
+	Involuntary context switches: 157
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 83
+Command exited with non-zero status 83
+	Command being timed: "qemu-system-x86_64 -s -netdev bridge,id=en1,br=virbr0 -device virtio-net-pci,netdev=en1 -device isa-debug-exit -kernel app-utnt_qemu-x86_64 -append netdev.ipv4_addr=10.0.122.2 netdev.ipv4_gw_addr=10.0.122.1 netdev.ipv4_subnet_mask=255.255.255.0 -- 10.0.122.2 sc_tnt -i 1.1.1.1 -p 12345 -o out.warts -cpu host --enable-kvm -m 8 -no-acpi -display none -nographic"
+	User time (seconds): 0.39
+	System time (seconds): 0.08
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.03
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 54460
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6377
+	Voluntary context switches: 529
+	Involuntary context switches: 156
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 83
+Command exited with non-zero status 83
+	Command being timed: "qemu-system-x86_64 -s -netdev bridge,id=en1,br=virbr0 -device virtio-net-pci,netdev=en1 -device isa-debug-exit -kernel app-utnt_qemu-x86_64 -append netdev.ipv4_addr=10.0.122.2 netdev.ipv4_gw_addr=10.0.122.1 netdev.ipv4_subnet_mask=255.255.255.0 -- 10.0.122.2 sc_tnt -i 1.1.1.1 -p 12345 -o out.warts -cpu host --enable-kvm -m 8 -no-acpi -display none -nographic"
+	User time (seconds): 0.36
+	System time (seconds): 0.11
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.04
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 54668
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6376
+	Voluntary context switches: 562
+	Involuntary context switches: 157
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 83
+Command exited with non-zero status 83
+	Command being timed: "qemu-system-x86_64 -s -netdev bridge,id=en1,br=virbr0 -device virtio-net-pci,netdev=en1 -device isa-debug-exit -kernel app-utnt_qemu-x86_64 -append netdev.ipv4_addr=10.0.122.2 netdev.ipv4_gw_addr=10.0.122.1 netdev.ipv4_subnet_mask=255.255.255.0 -- 10.0.122.2 sc_tnt -i 1.1.1.1 -p 12345 -o out.warts -cpu host --enable-kvm -m 8 -no-acpi -display none -nographic"
+	User time (seconds): 0.34
+	System time (seconds): 0.13
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.04
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 54376
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6372
+	Voluntary context switches: 557
+	Involuntary context switches: 155
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 83
+Command exited with non-zero status 83
+	Command being timed: "qemu-system-x86_64 -s -netdev bridge,id=en1,br=virbr0 -device virtio-net-pci,netdev=en1 -device isa-debug-exit -kernel app-utnt_qemu-x86_64 -append netdev.ipv4_addr=10.0.122.2 netdev.ipv4_gw_addr=10.0.122.1 netdev.ipv4_subnet_mask=255.255.255.0 -- 10.0.122.2 sc_tnt -i 1.1.1.1 -p 12345 -o out.warts -cpu host --enable-kvm -m 8 -no-acpi -display none -nographic"
+	User time (seconds): 0.37
+	System time (seconds): 0.10
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.03
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 54756
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6374
+	Voluntary context switches: 557
+	Involuntary context switches: 156
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 83
+Command exited with non-zero status 83
+	Command being timed: "qemu-system-x86_64 -s -netdev bridge,id=en1,br=virbr0 -device virtio-net-pci,netdev=en1 -device isa-debug-exit -kernel app-utnt_qemu-x86_64 -append netdev.ipv4_addr=10.0.122.2 netdev.ipv4_gw_addr=10.0.122.1 netdev.ipv4_subnet_mask=255.255.255.0 -- 10.0.122.2 sc_tnt -i 1.1.1.1 -p 12345 -o out.warts -cpu host --enable-kvm -m 8 -no-acpi -display none -nographic"
+	User time (seconds): 0.33
+	System time (seconds): 0.14
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.06
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 54828
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6381
+	Voluntary context switches: 535
+	Involuntary context switches: 152
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 16
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 83
+Command exited with non-zero status 83
+	Command being timed: "qemu-system-x86_64 -s -netdev bridge,id=en1,br=virbr0 -device virtio-net-pci,netdev=en1 -device isa-debug-exit -kernel app-utnt_qemu-x86_64 -append netdev.ipv4_addr=10.0.122.2 netdev.ipv4_gw_addr=10.0.122.1 netdev.ipv4_subnet_mask=255.255.255.0 -- 10.0.122.2 sc_tnt -i 1.1.1.1 -p 12345 -o out.warts -cpu host --enable-kvm -m 8 -no-acpi -display none -nographic"
+	User time (seconds): 0.37
+	System time (seconds): 0.10
+	Percent of CPU this job got: 2%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.01
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 54644
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6381
+	Voluntary context switches: 554
+	Involuntary context switches: 152
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 83

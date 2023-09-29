@@ -1,0 +1,13 @@
+menuconfig LIBSCAMPER
+	bool "scamper with TNT"
+	default n
+	select LIBMUSL
+	select LIBLWIP
+
+if LIBSCAMPER
+config LIBSCAMPER_ISROOT
+	bool "Set root process"
+	default n
+	help
+	  Set to be the root process or the child one
+endif

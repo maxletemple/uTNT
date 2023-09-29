@@ -1,0 +1,14 @@
+menuconfig LIBUKMMAP
+	bool "ukmmap: mmap system call"
+	default n
+	select LIBNOLIBC if !HAVE_LIBC
+	select LIBUKALLOC
+
+if LIBUKMMAP
+
+config LIBUKMMAP_TEST
+	bool "Enable unit tests"
+	default n
+	select LIBUKTEST
+
+endif

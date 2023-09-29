@@ -1,0 +1,7 @@
+ubuntu16.04.qcow2
+ubuntu16.04.zip
+smap_parser
+fs0/
+vm.zip
+.vagrant
+*.log

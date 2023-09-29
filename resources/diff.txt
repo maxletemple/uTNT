@@ -1,0 +1,19 @@
+DIFF
+
+Scamper:
+
+-Scamper mode mono processus: #define WITHOUT_PRIVSEP 1
+-Avec LWIP l'option de socket SO_SNDBUF n'est pas possible
+-Modification de realloc_wrap() dans utils.c: realloc() n'est pas implémentée, on fait donc un malloc() et un memcpy() à la place
+-Stub de check_option(): la fonction primitive getopt() était appelée ici et pour le check_options(), ce qui ne fonctionnait pas. Les options sont donc hard codées.
+
+Sc_tnt:
+
+-Dans la fonction do_files(): famille de socket AF_UNIX non implémentée sur Unikraft, il faut donc créer une paire de sockets AF_INET en TCP "à la main"
+-L'appel de sc_tnt et scamper se fait avec des threads: un pour scamper et un pour sc_tnt
+
+LWIP:
+
+-Plusieurs options à modifier dans opt.h (RCVBUF, )
+-Ajout de l'option HDRINCL dans la fonction lwip_setsocktopt_impl() de sockets.c, utilisée pour ne pas inclure automatiquement d'en-tête IP.
+-pbuf_add_header_impl() de pbuf.c: modification de la fonction pour qu'elle ne vérifie la taille du header en aucun cas. Sans ça, une erreur "No buffer space available" apparaît

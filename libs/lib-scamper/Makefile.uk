@@ -1,0 +1,111 @@
+################################################################################
+# Library registration
+################################################################################
+$(eval $(call addlib,libscamper))
+
+#$(CONFIG_LIBSCAMPER)
+
+LIBSCAMPER_VERSION = 1
+LIBSCAMPER_BASENAME = libscamper
+LIBSCAMPER_URL = https://github.com/maxletemple/scamper-tnt-cvs-20180523a/archive/master.tar.gz
+
+
+LIBSCAMPER_CINCLUDES-y += -I$(LIBSCAMPER_BASE)/include
+CINCLUDES-$(CONFIG_LIBSCAMPER)   += $(LIBSCAMPER_CINCLUDES-y)
+
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/utils/sc_tnt/sc_tnt.c
+
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_addr.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_list.c
+
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/ping/scamper_ping.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/ping/scamper_ping_text.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/ping/scamper_ping_warts.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/ping/scamper_ping_json.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/ping/scamper_ping_do.c
+
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/trace/scamper_trace.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/trace/scamper_trace_text.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/trace/scamper_trace_warts.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/trace/scamper_trace_json.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/trace/scamper_trace_do.c
+
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/tracelb/scamper_tracelb.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/tracelb/scamper_tracelb_text.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/tracelb/scamper_tracelb_warts.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/tracelb/scamper_tracelb_do.c
+
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/sting/scamper_sting.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/sting/scamper_sting_text.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/sting/scamper_sting_warts.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/sting/scamper_sting_do.c
+
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/dealias/scamper_dealias.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/dealias/scamper_dealias_text.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/dealias/scamper_dealias_warts.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/dealias/scamper_dealias_json.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/dealias/scamper_dealias_do.c
+
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/tbit/scamper_tbit.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/tbit/scamper_tbit_text.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/tbit/scamper_tbit_warts.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/tbit/scamper_tbit_json.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/tbit/scamper_tbit_do.c
+
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/sniff/scamper_sniff.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/sniff/scamper_sniff_do.c
+
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/neighbourdisc/scamper_neighbourdisc.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/neighbourdisc/scamper_neighbourdisc_warts.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/neighbourdisc/scamper_neighbourdisc_do.c
+
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/sniff/scamper_sniff_warts.c
+# LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/sniff/scamper_sniff_do.c
+
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_icmpext.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_file.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_file_warts.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_file_arts.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_getsrc.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_rtsock.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_icmp_resp_.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_icmp4.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_icmp6.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_ip4.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_ip6.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_udp4.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_udp6.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_tcp4.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_tcp6.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_addr2mac.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_linepoll.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_sources.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_source_tsps.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_source_control.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_source_file.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_source_cmdline.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_cyclemon.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_outfiles.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_writebuf.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_firewall.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_privsep.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_dlhdr.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_queue.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_task.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_probe.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_osinfo.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_debug.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_control.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_options.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_fds.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_dl.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper_if.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/scamper/scamper.c
+
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/mjl_list.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/mjl_splaytree.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/mjl_heap.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/mjl_prefixtree.c
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/mjl_patricia.c
+
+LIBSCAMPER_SRCS-y += $(LIBSCAMPER_BASE)/src/utils.c

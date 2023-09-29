@@ -1,0 +1,2062 @@
+1693573510.1793008,1693573510.6959643,1693573525.8950279,
+0.1: Pulling from gaulthiergain/scamper_tnt
+58690f9b18fc: Pulling fs layer
+b51569e7c507: Pulling fs layer
+da8ef40b9eca: Pulling fs layer
+fb15d46c38dc: Pulling fs layer
+72ffbb1b8156: Pulling fs layer
+c5fc76517a62: Pulling fs layer
+c8db56c02c12: Pulling fs layer
+8bf0dd184eb7: Pulling fs layer
+4f4fb700ef54: Pulling fs layer
+7f5ac4f46940: Pulling fs layer
+378e754924a9: Pulling fs layer
+4c86be410c6a: Pulling fs layer
+600f0ef9216b: Pulling fs layer
+3677be3aa1a0: Pulling fs layer
+438628ade629: Pulling fs layer
+865367d1a4bd: Pulling fs layer
+6799276f7cfc: Pulling fs layer
+7f5ac4f46940: Waiting
+378e754924a9: Waiting
+4c86be410c6a: Waiting
+600f0ef9216b: Waiting
+3677be3aa1a0: Waiting
+438628ade629: Waiting
+865367d1a4bd: Waiting
+6799276f7cfc: Waiting
+fb15d46c38dc: Waiting
+72ffbb1b8156: Waiting
+c5fc76517a62: Waiting
+c8db56c02c12: Waiting
+8bf0dd184eb7: Waiting
+4f4fb700ef54: Waiting
+b51569e7c507: Verifying Checksum
+b51569e7c507: Download complete
+da8ef40b9eca: Verifying Checksum
+da8ef40b9eca: Download complete
+fb15d46c38dc: Verifying Checksum
+fb15d46c38dc: Download complete
+c5fc76517a62: Verifying Checksum
+c5fc76517a62: Download complete
+72ffbb1b8156: Verifying Checksum
+72ffbb1b8156: Download complete
+58690f9b18fc: Download complete
+4f4fb700ef54: Verifying Checksum
+4f4fb700ef54: Download complete
+8bf0dd184eb7: Verifying Checksum
+8bf0dd184eb7: Download complete
+7f5ac4f46940: Verifying Checksum
+7f5ac4f46940: Download complete
+378e754924a9: Verifying Checksum
+378e754924a9: Download complete
+4c86be410c6a: Verifying Checksum
+4c86be410c6a: Download complete
+c8db56c02c12: Verifying Checksum
+c8db56c02c12: Download complete
+600f0ef9216b: Verifying Checksum
+600f0ef9216b: Download complete
+3677be3aa1a0: Verifying Checksum
+3677be3aa1a0: Download complete
+865367d1a4bd: Verifying Checksum
+865367d1a4bd: Download complete
+438628ade629: Verifying Checksum
+438628ade629: Download complete
+6799276f7cfc: Verifying Checksum
+6799276f7cfc: Download complete
+58690f9b18fc: Pull complete
+b51569e7c507: Pull complete
+da8ef40b9eca: Pull complete
+fb15d46c38dc: Pull complete
+72ffbb1b8156: Pull complete
+c5fc76517a62: Pull complete
+c8db56c02c12: Pull complete
+8bf0dd184eb7: Pull complete
+4f4fb700ef54: Pull complete
+7f5ac4f46940: Pull complete
+378e754924a9: Pull complete
+4c86be410c6a: Pull complete
+600f0ef9216b: Pull complete
+3677be3aa1a0: Pull complete
+438628ade629: Pull complete
+865367d1a4bd: Pull complete
+6799276f7cfc: Pull complete
+Digest: sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Status: Downloaded newer image for gaulthiergain/scamper_tnt:0.1
+docker.io/gaulthiergain/scamper_tnt:0.1
+t0: 1693573524430
+
+t1: 1693573525233588
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 172.17.0.1
+done
+t2: 1693573525234797
+Untagged: gaulthiergain/scamper_tnt:0.1
+Untagged: gaulthiergain/scamper_tnt@sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Deleted: sha256:8f7ee8fb4cd97557c4d41aa1fca5307e308a10a514b27e81bd3cf600936be83f
+Deleted: sha256:c996ae47cbfd6bc9f41cf1dfa3d6d8744ca9155015eeb1f8f9a1ed8fd1e88098
+Deleted: sha256:e341988497f7382f74008309812b90f2c135a6a1f86c93d07572aaaa6de8b5ef
+Deleted: sha256:f7e63ddf5519d84ac09d6f445cac64ff8b4d4f2b2a483e79cf315649c327e30f
+Deleted: sha256:218698ef24a5242db1cd3867462c7106d76e4a5eef62fa15c3d427e09db8e10f
+Deleted: sha256:c9b75cec70582ed1fa510e14da7c891c357fd928e242a6ed465ff57fed724a3b
+Deleted: sha256:af47f5f6c9ee8dcf934d955d5a7dfff419ebde329f531d8a93dd9d05f3e2ac5f
+Deleted: sha256:32333963c6f045e8ff2200be4032e3671032c72a30279a5ba0db4315036e2e23
+Deleted: sha256:9f65010d127f2553a6cf36a090ca0f5f821a3eb3f601e69a967ed0765bf21e97
+Deleted: sha256:4b78df93b68c33044e3f491be9f42d15a4b2b8db213a40fe024fb2a51c2d66d3
+Deleted: sha256:1301c4b1b75b7584991831dfab16130c7ca53c214f3a56e93604d553fa85ccee
+Deleted: sha256:7f0cc776595f4bddee4e8994ac9c943a1737df523e2e3c7eeb3d26ea5e04d090
+Deleted: sha256:fd89050172b05f3186dfbb82143efca8fbdc70342d885223659fbc4b6f3027b3
+Deleted: sha256:21c6c6a21f36599bf1a8cfdefa80cc186cc64791f921d97598f56eced6f2b59a
+Deleted: sha256:0214f4b057d78b44fd12702828152f67c0ce115f9346acc63acdf997cab7e7c8
+Deleted: sha256:1b9d0485372c5562fa614d5b35766f6c442539bcee9825a6e90d1158c3299a61
+Deleted: sha256:3c0f34be6eb98057c607b9080237cce0be0b86f52d51ba620dc018a3d421baea
+Deleted: sha256:be96a3f634de79f523f07c7e4e0216c28af45eb5776e7a6238a2392f71e01069
+end
+
+1693573511.1228592,1693573511.39677,1693573527.8486717,
+0.1: Pulling from gaulthiergain/scamper_tnt
+58690f9b18fc: Pulling fs layer
+b51569e7c507: Pulling fs layer
+da8ef40b9eca: Pulling fs layer
+fb15d46c38dc: Pulling fs layer
+72ffbb1b8156: Pulling fs layer
+c5fc76517a62: Pulling fs layer
+c8db56c02c12: Pulling fs layer
+8bf0dd184eb7: Pulling fs layer
+4f4fb700ef54: Pulling fs layer
+7f5ac4f46940: Pulling fs layer
+378e754924a9: Pulling fs layer
+4c86be410c6a: Pulling fs layer
+600f0ef9216b: Pulling fs layer
+3677be3aa1a0: Pulling fs layer
+438628ade629: Pulling fs layer
+865367d1a4bd: Pulling fs layer
+6799276f7cfc: Pulling fs layer
+fb15d46c38dc: Waiting
+72ffbb1b8156: Waiting
+c5fc76517a62: Waiting
+c8db56c02c12: Waiting
+8bf0dd184eb7: Waiting
+4f4fb700ef54: Waiting
+7f5ac4f46940: Waiting
+378e754924a9: Waiting
+4c86be410c6a: Waiting
+600f0ef9216b: Waiting
+3677be3aa1a0: Waiting
+438628ade629: Waiting
+865367d1a4bd: Waiting
+6799276f7cfc: Waiting
+da8ef40b9eca: Verifying Checksum
+da8ef40b9eca: Download complete
+b51569e7c507: Verifying Checksum
+b51569e7c507: Download complete
+fb15d46c38dc: Verifying Checksum
+fb15d46c38dc: Download complete
+c5fc76517a62: Verifying Checksum
+c5fc76517a62: Download complete
+58690f9b18fc: Verifying Checksum
+58690f9b18fc: Download complete
+72ffbb1b8156: Verifying Checksum
+72ffbb1b8156: Download complete
+4f4fb700ef54: Verifying Checksum
+4f4fb700ef54: Download complete
+8bf0dd184eb7: Verifying Checksum
+8bf0dd184eb7: Download complete
+7f5ac4f46940: Verifying Checksum
+7f5ac4f46940: Download complete
+378e754924a9: Verifying Checksum
+378e754924a9: Download complete
+c8db56c02c12: Verifying Checksum
+c8db56c02c12: Download complete
+4c86be410c6a: Verifying Checksum
+4c86be410c6a: Download complete
+600f0ef9216b: Verifying Checksum
+600f0ef9216b: Download complete
+3677be3aa1a0: Verifying Checksum
+3677be3aa1a0: Download complete
+438628ade629: Verifying Checksum
+438628ade629: Download complete
+865367d1a4bd: Verifying Checksum
+865367d1a4bd: Download complete
+6799276f7cfc: Verifying Checksum
+6799276f7cfc: Download complete
+58690f9b18fc: Pull complete
+b51569e7c507: Pull complete
+da8ef40b9eca: Pull complete
+fb15d46c38dc: Pull complete
+72ffbb1b8156: Pull complete
+c5fc76517a62: Pull complete
+c8db56c02c12: Pull complete
+8bf0dd184eb7: Pull complete
+4f4fb700ef54: Pull complete
+7f5ac4f46940: Pull complete
+378e754924a9: Pull complete
+4c86be410c6a: Pull complete
+600f0ef9216b: Pull complete
+3677be3aa1a0: Pull complete
+438628ade629: Pull complete
+865367d1a4bd: Pull complete
+6799276f7cfc: Pull complete
+Digest: sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Status: Downloaded newer image for gaulthiergain/scamper_tnt:0.1
+docker.io/gaulthiergain/scamper_tnt:0.1
+t0: 1693573526351
+
+t1: 1693573527160689
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 172.17.0.1
+done
+t2: 1693573527161962
+Untagged: gaulthiergain/scamper_tnt:0.1
+Untagged: gaulthiergain/scamper_tnt@sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Deleted: sha256:8f7ee8fb4cd97557c4d41aa1fca5307e308a10a514b27e81bd3cf600936be83f
+Deleted: sha256:c996ae47cbfd6bc9f41cf1dfa3d6d8744ca9155015eeb1f8f9a1ed8fd1e88098
+Deleted: sha256:e341988497f7382f74008309812b90f2c135a6a1f86c93d07572aaaa6de8b5ef
+Deleted: sha256:f7e63ddf5519d84ac09d6f445cac64ff8b4d4f2b2a483e79cf315649c327e30f
+Deleted: sha256:218698ef24a5242db1cd3867462c7106d76e4a5eef62fa15c3d427e09db8e10f
+Deleted: sha256:c9b75cec70582ed1fa510e14da7c891c357fd928e242a6ed465ff57fed724a3b
+Deleted: sha256:af47f5f6c9ee8dcf934d955d5a7dfff419ebde329f531d8a93dd9d05f3e2ac5f
+Deleted: sha256:32333963c6f045e8ff2200be4032e3671032c72a30279a5ba0db4315036e2e23
+Deleted: sha256:9f65010d127f2553a6cf36a090ca0f5f821a3eb3f601e69a967ed0765bf21e97
+Deleted: sha256:4b78df93b68c33044e3f491be9f42d15a4b2b8db213a40fe024fb2a51c2d66d3
+Deleted: sha256:1301c4b1b75b7584991831dfab16130c7ca53c214f3a56e93604d553fa85ccee
+Deleted: sha256:7f0cc776595f4bddee4e8994ac9c943a1737df523e2e3c7eeb3d26ea5e04d090
+Deleted: sha256:fd89050172b05f3186dfbb82143efca8fbdc70342d885223659fbc4b6f3027b3
+Deleted: sha256:21c6c6a21f36599bf1a8cfdefa80cc186cc64791f921d97598f56eced6f2b59a
+Deleted: sha256:0214f4b057d78b44fd12702828152f67c0ce115f9346acc63acdf997cab7e7c8
+Deleted: sha256:1b9d0485372c5562fa614d5b35766f6c442539bcee9825a6e90d1158c3299a61
+Deleted: sha256:3c0f34be6eb98057c607b9080237cce0be0b86f52d51ba620dc018a3d421baea
+Deleted: sha256:be96a3f634de79f523f07c7e4e0216c28af45eb5776e7a6238a2392f71e01069
+end
+
+1693573513.6679125,1693573514.58346,1693573530.4214175,
+0.1: Pulling from gaulthiergain/scamper_tnt
+58690f9b18fc: Pulling fs layer
+b51569e7c507: Pulling fs layer
+da8ef40b9eca: Pulling fs layer
+fb15d46c38dc: Pulling fs layer
+72ffbb1b8156: Pulling fs layer
+c5fc76517a62: Pulling fs layer
+c8db56c02c12: Pulling fs layer
+8bf0dd184eb7: Pulling fs layer
+4f4fb700ef54: Pulling fs layer
+7f5ac4f46940: Pulling fs layer
+378e754924a9: Pulling fs layer
+4c86be410c6a: Pulling fs layer
+600f0ef9216b: Pulling fs layer
+3677be3aa1a0: Pulling fs layer
+438628ade629: Pulling fs layer
+865367d1a4bd: Pulling fs layer
+6799276f7cfc: Pulling fs layer
+4f4fb700ef54: Waiting
+7f5ac4f46940: Waiting
+378e754924a9: Waiting
+4c86be410c6a: Waiting
+600f0ef9216b: Waiting
+3677be3aa1a0: Waiting
+438628ade629: Waiting
+865367d1a4bd: Waiting
+6799276f7cfc: Waiting
+c5fc76517a62: Waiting
+c8db56c02c12: Waiting
+8bf0dd184eb7: Waiting
+72ffbb1b8156: Waiting
+fb15d46c38dc: Waiting
+da8ef40b9eca: Verifying Checksum
+da8ef40b9eca: Download complete
+b51569e7c507: Verifying Checksum
+b51569e7c507: Download complete
+fb15d46c38dc: Verifying Checksum
+fb15d46c38dc: Download complete
+c5fc76517a62: Verifying Checksum
+c5fc76517a62: Download complete
+58690f9b18fc: Verifying Checksum
+58690f9b18fc: Download complete
+8bf0dd184eb7: Verifying Checksum
+8bf0dd184eb7: Download complete
+72ffbb1b8156: Verifying Checksum
+72ffbb1b8156: Download complete
+4f4fb700ef54: Verifying Checksum
+4f4fb700ef54: Download complete
+7f5ac4f46940: Verifying Checksum
+7f5ac4f46940: Download complete
+378e754924a9: Verifying Checksum
+378e754924a9: Download complete
+4c86be410c6a: Verifying Checksum
+4c86be410c6a: Download complete
+600f0ef9216b: Verifying Checksum
+600f0ef9216b: Download complete
+3677be3aa1a0: Verifying Checksum
+3677be3aa1a0: Download complete
+c8db56c02c12: Verifying Checksum
+c8db56c02c12: Download complete
+438628ade629: Verifying Checksum
+438628ade629: Download complete
+865367d1a4bd: Verifying Checksum
+865367d1a4bd: Download complete
+6799276f7cfc: Verifying Checksum
+6799276f7cfc: Download complete
+58690f9b18fc: Pull complete
+b51569e7c507: Pull complete
+da8ef40b9eca: Pull complete
+fb15d46c38dc: Pull complete
+72ffbb1b8156: Pull complete
+c5fc76517a62: Pull complete
+c8db56c02c12: Pull complete
+8bf0dd184eb7: Pull complete
+4f4fb700ef54: Pull complete
+7f5ac4f46940: Pull complete
+378e754924a9: Pull complete
+4c86be410c6a: Pull complete
+600f0ef9216b: Pull complete
+3677be3aa1a0: Pull complete
+438628ade629: Pull complete
+865367d1a4bd: Pull complete
+6799276f7cfc: Pull complete
+Digest: sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Status: Downloaded newer image for gaulthiergain/scamper_tnt:0.1
+docker.io/gaulthiergain/scamper_tnt:0.1
+t0: 1693573528642
+
+t1: 1693573529560219
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 172.17.0.1
+done
+t2: 1693573529561754
+Untagged: gaulthiergain/scamper_tnt:0.1
+Untagged: gaulthiergain/scamper_tnt@sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Deleted: sha256:8f7ee8fb4cd97557c4d41aa1fca5307e308a10a514b27e81bd3cf600936be83f
+Deleted: sha256:c996ae47cbfd6bc9f41cf1dfa3d6d8744ca9155015eeb1f8f9a1ed8fd1e88098
+Deleted: sha256:e341988497f7382f74008309812b90f2c135a6a1f86c93d07572aaaa6de8b5ef
+Deleted: sha256:f7e63ddf5519d84ac09d6f445cac64ff8b4d4f2b2a483e79cf315649c327e30f
+Deleted: sha256:218698ef24a5242db1cd3867462c7106d76e4a5eef62fa15c3d427e09db8e10f
+Deleted: sha256:c9b75cec70582ed1fa510e14da7c891c357fd928e242a6ed465ff57fed724a3b
+Deleted: sha256:af47f5f6c9ee8dcf934d955d5a7dfff419ebde329f531d8a93dd9d05f3e2ac5f
+Deleted: sha256:32333963c6f045e8ff2200be4032e3671032c72a30279a5ba0db4315036e2e23
+Deleted: sha256:9f65010d127f2553a6cf36a090ca0f5f821a3eb3f601e69a967ed0765bf21e97
+Deleted: sha256:4b78df93b68c33044e3f491be9f42d15a4b2b8db213a40fe024fb2a51c2d66d3
+Deleted: sha256:1301c4b1b75b7584991831dfab16130c7ca53c214f3a56e93604d553fa85ccee
+Deleted: sha256:7f0cc776595f4bddee4e8994ac9c943a1737df523e2e3c7eeb3d26ea5e04d090
+Deleted: sha256:fd89050172b05f3186dfbb82143efca8fbdc70342d885223659fbc4b6f3027b3
+Deleted: sha256:21c6c6a21f36599bf1a8cfdefa80cc186cc64791f921d97598f56eced6f2b59a
+Deleted: sha256:0214f4b057d78b44fd12702828152f67c0ce115f9346acc63acdf997cab7e7c8
+Deleted: sha256:1b9d0485372c5562fa614d5b35766f6c442539bcee9825a6e90d1158c3299a61
+Deleted: sha256:3c0f34be6eb98057c607b9080237cce0be0b86f52d51ba620dc018a3d421baea
+Deleted: sha256:be96a3f634de79f523f07c7e4e0216c28af45eb5776e7a6238a2392f71e01069
+end
+
+1693573510.2987592,1693573511.8615077,1693573530.9061525,
+0.1: Pulling from gaulthiergain/scamper_tnt
+58690f9b18fc: Pulling fs layer
+b51569e7c507: Pulling fs layer
+da8ef40b9eca: Pulling fs layer
+fb15d46c38dc: Pulling fs layer
+72ffbb1b8156: Pulling fs layer
+c5fc76517a62: Pulling fs layer
+c8db56c02c12: Pulling fs layer
+8bf0dd184eb7: Pulling fs layer
+4f4fb700ef54: Pulling fs layer
+7f5ac4f46940: Pulling fs layer
+378e754924a9: Pulling fs layer
+4c86be410c6a: Pulling fs layer
+600f0ef9216b: Pulling fs layer
+3677be3aa1a0: Pulling fs layer
+438628ade629: Pulling fs layer
+865367d1a4bd: Pulling fs layer
+6799276f7cfc: Pulling fs layer
+fb15d46c38dc: Waiting
+72ffbb1b8156: Waiting
+c5fc76517a62: Waiting
+c8db56c02c12: Waiting
+8bf0dd184eb7: Waiting
+4f4fb700ef54: Waiting
+7f5ac4f46940: Waiting
+378e754924a9: Waiting
+4c86be410c6a: Waiting
+600f0ef9216b: Waiting
+3677be3aa1a0: Waiting
+438628ade629: Waiting
+865367d1a4bd: Waiting
+6799276f7cfc: Waiting
+b51569e7c507: Verifying Checksum
+b51569e7c507: Download complete
+da8ef40b9eca: Verifying Checksum
+da8ef40b9eca: Download complete
+58690f9b18fc: Verifying Checksum
+58690f9b18fc: Download complete
+fb15d46c38dc: Verifying Checksum
+fb15d46c38dc: Download complete
+72ffbb1b8156: Verifying Checksum
+72ffbb1b8156: Download complete
+c5fc76517a62: Verifying Checksum
+c5fc76517a62: Download complete
+4f4fb700ef54: Verifying Checksum
+4f4fb700ef54: Download complete
+8bf0dd184eb7: Verifying Checksum
+8bf0dd184eb7: Download complete
+c8db56c02c12: Verifying Checksum
+c8db56c02c12: Download complete
+7f5ac4f46940: Verifying Checksum
+7f5ac4f46940: Download complete
+378e754924a9: Verifying Checksum
+378e754924a9: Download complete
+4c86be410c6a: Verifying Checksum
+4c86be410c6a: Download complete
+600f0ef9216b: Verifying Checksum
+600f0ef9216b: Download complete
+3677be3aa1a0: Verifying Checksum
+3677be3aa1a0: Download complete
+438628ade629: Verifying Checksum
+438628ade629: Download complete
+58690f9b18fc: Pull complete
+b51569e7c507: Pull complete
+865367d1a4bd: Verifying Checksum
+865367d1a4bd: Download complete
+da8ef40b9eca: Pull complete
+fb15d46c38dc: Pull complete
+6799276f7cfc: Verifying Checksum
+6799276f7cfc: Download complete
+72ffbb1b8156: Pull complete
+c5fc76517a62: Pull complete
+c8db56c02c12: Pull complete
+8bf0dd184eb7: Pull complete
+4f4fb700ef54: Pull complete
+7f5ac4f46940: Pull complete
+378e754924a9: Pull complete
+4c86be410c6a: Pull complete
+600f0ef9216b: Pull complete
+3677be3aa1a0: Pull complete
+438628ade629: Pull complete
+865367d1a4bd: Pull complete
+6799276f7cfc: Pull complete
+Digest: sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Status: Downloaded newer image for gaulthiergain/scamper_tnt:0.1
+docker.io/gaulthiergain/scamper_tnt:0.1
+t0: 1693573529159
+
+t1: 1693573529989693
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 172.17.0.1
+done
+t2: 1693573529991208
+Untagged: gaulthiergain/scamper_tnt:0.1
+Untagged: gaulthiergain/scamper_tnt@sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Deleted: sha256:8f7ee8fb4cd97557c4d41aa1fca5307e308a10a514b27e81bd3cf600936be83f
+Deleted: sha256:c996ae47cbfd6bc9f41cf1dfa3d6d8744ca9155015eeb1f8f9a1ed8fd1e88098
+Deleted: sha256:e341988497f7382f74008309812b90f2c135a6a1f86c93d07572aaaa6de8b5ef
+Deleted: sha256:f7e63ddf5519d84ac09d6f445cac64ff8b4d4f2b2a483e79cf315649c327e30f
+Deleted: sha256:218698ef24a5242db1cd3867462c7106d76e4a5eef62fa15c3d427e09db8e10f
+Deleted: sha256:c9b75cec70582ed1fa510e14da7c891c357fd928e242a6ed465ff57fed724a3b
+Deleted: sha256:af47f5f6c9ee8dcf934d955d5a7dfff419ebde329f531d8a93dd9d05f3e2ac5f
+Deleted: sha256:32333963c6f045e8ff2200be4032e3671032c72a30279a5ba0db4315036e2e23
+Deleted: sha256:9f65010d127f2553a6cf36a090ca0f5f821a3eb3f601e69a967ed0765bf21e97
+Deleted: sha256:4b78df93b68c33044e3f491be9f42d15a4b2b8db213a40fe024fb2a51c2d66d3
+Deleted: sha256:1301c4b1b75b7584991831dfab16130c7ca53c214f3a56e93604d553fa85ccee
+Deleted: sha256:7f0cc776595f4bddee4e8994ac9c943a1737df523e2e3c7eeb3d26ea5e04d090
+Deleted: sha256:fd89050172b05f3186dfbb82143efca8fbdc70342d885223659fbc4b6f3027b3
+Deleted: sha256:21c6c6a21f36599bf1a8cfdefa80cc186cc64791f921d97598f56eced6f2b59a
+Deleted: sha256:0214f4b057d78b44fd12702828152f67c0ce115f9346acc63acdf997cab7e7c8
+Deleted: sha256:1b9d0485372c5562fa614d5b35766f6c442539bcee9825a6e90d1158c3299a61
+Deleted: sha256:3c0f34be6eb98057c607b9080237cce0be0b86f52d51ba620dc018a3d421baea
+Deleted: sha256:be96a3f634de79f523f07c7e4e0216c28af45eb5776e7a6238a2392f71e01069
+end
+
+1693573514.1601827,1693573516.595653,1693573533.2877576,
+0.1: Pulling from gaulthiergain/scamper_tnt
+58690f9b18fc: Pulling fs layer
+b51569e7c507: Pulling fs layer
+da8ef40b9eca: Pulling fs layer
+fb15d46c38dc: Pulling fs layer
+72ffbb1b8156: Pulling fs layer
+c5fc76517a62: Pulling fs layer
+c8db56c02c12: Pulling fs layer
+8bf0dd184eb7: Pulling fs layer
+4f4fb700ef54: Pulling fs layer
+7f5ac4f46940: Pulling fs layer
+378e754924a9: Pulling fs layer
+4c86be410c6a: Pulling fs layer
+600f0ef9216b: Pulling fs layer
+3677be3aa1a0: Pulling fs layer
+438628ade629: Pulling fs layer
+865367d1a4bd: Pulling fs layer
+6799276f7cfc: Pulling fs layer
+fb15d46c38dc: Waiting
+72ffbb1b8156: Waiting
+c5fc76517a62: Waiting
+c8db56c02c12: Waiting
+8bf0dd184eb7: Waiting
+4f4fb700ef54: Waiting
+7f5ac4f46940: Waiting
+378e754924a9: Waiting
+4c86be410c6a: Waiting
+600f0ef9216b: Waiting
+3677be3aa1a0: Waiting
+438628ade629: Waiting
+865367d1a4bd: Waiting
+6799276f7cfc: Waiting
+b51569e7c507: Download complete
+da8ef40b9eca: Verifying Checksum
+da8ef40b9eca: Download complete
+fb15d46c38dc: Verifying Checksum
+fb15d46c38dc: Download complete
+58690f9b18fc: Verifying Checksum
+58690f9b18fc: Download complete
+72ffbb1b8156: Verifying Checksum
+72ffbb1b8156: Download complete
+c5fc76517a62: Verifying Checksum
+c5fc76517a62: Download complete
+4f4fb700ef54: Verifying Checksum
+4f4fb700ef54: Download complete
+8bf0dd184eb7: Verifying Checksum
+8bf0dd184eb7: Download complete
+c8db56c02c12: Verifying Checksum
+c8db56c02c12: Download complete
+7f5ac4f46940: Verifying Checksum
+7f5ac4f46940: Download complete
+378e754924a9: Verifying Checksum
+378e754924a9: Download complete
+4c86be410c6a: Verifying Checksum
+4c86be410c6a: Download complete
+600f0ef9216b: Verifying Checksum
+600f0ef9216b: Download complete
+3677be3aa1a0: Verifying Checksum
+3677be3aa1a0: Download complete
+438628ade629: Verifying Checksum
+438628ade629: Download complete
+865367d1a4bd: Verifying Checksum
+865367d1a4bd: Download complete
+6799276f7cfc: Verifying Checksum
+6799276f7cfc: Download complete
+58690f9b18fc: Pull complete
+b51569e7c507: Pull complete
+da8ef40b9eca: Pull complete
+fb15d46c38dc: Pull complete
+72ffbb1b8156: Pull complete
+c5fc76517a62: Pull complete
+c8db56c02c12: Pull complete
+8bf0dd184eb7: Pull complete
+4f4fb700ef54: Pull complete
+7f5ac4f46940: Pull complete
+378e754924a9: Pull complete
+4c86be410c6a: Pull complete
+600f0ef9216b: Pull complete
+3677be3aa1a0: Pull complete
+438628ade629: Pull complete
+865367d1a4bd: Pull complete
+6799276f7cfc: Pull complete
+Digest: sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Status: Downloaded newer image for gaulthiergain/scamper_tnt:0.1
+docker.io/gaulthiergain/scamper_tnt:0.1
+t0: 1693573531743
+
+t1: 1693573532524099
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 172.17.0.1
+done
+t2: 1693573532525725
+Untagged: gaulthiergain/scamper_tnt:0.1
+Untagged: gaulthiergain/scamper_tnt@sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Deleted: sha256:8f7ee8fb4cd97557c4d41aa1fca5307e308a10a514b27e81bd3cf600936be83f
+Deleted: sha256:c996ae47cbfd6bc9f41cf1dfa3d6d8744ca9155015eeb1f8f9a1ed8fd1e88098
+Deleted: sha256:e341988497f7382f74008309812b90f2c135a6a1f86c93d07572aaaa6de8b5ef
+Deleted: sha256:f7e63ddf5519d84ac09d6f445cac64ff8b4d4f2b2a483e79cf315649c327e30f
+Deleted: sha256:218698ef24a5242db1cd3867462c7106d76e4a5eef62fa15c3d427e09db8e10f
+Deleted: sha256:c9b75cec70582ed1fa510e14da7c891c357fd928e242a6ed465ff57fed724a3b
+Deleted: sha256:af47f5f6c9ee8dcf934d955d5a7dfff419ebde329f531d8a93dd9d05f3e2ac5f
+Deleted: sha256:32333963c6f045e8ff2200be4032e3671032c72a30279a5ba0db4315036e2e23
+Deleted: sha256:9f65010d127f2553a6cf36a090ca0f5f821a3eb3f601e69a967ed0765bf21e97
+Deleted: sha256:4b78df93b68c33044e3f491be9f42d15a4b2b8db213a40fe024fb2a51c2d66d3
+Deleted: sha256:1301c4b1b75b7584991831dfab16130c7ca53c214f3a56e93604d553fa85ccee
+Deleted: sha256:7f0cc776595f4bddee4e8994ac9c943a1737df523e2e3c7eeb3d26ea5e04d090
+Deleted: sha256:fd89050172b05f3186dfbb82143efca8fbdc70342d885223659fbc4b6f3027b3
+Deleted: sha256:21c6c6a21f36599bf1a8cfdefa80cc186cc64791f921d97598f56eced6f2b59a
+Deleted: sha256:0214f4b057d78b44fd12702828152f67c0ce115f9346acc63acdf997cab7e7c8
+Deleted: sha256:1b9d0485372c5562fa614d5b35766f6c442539bcee9825a6e90d1158c3299a61
+Deleted: sha256:3c0f34be6eb98057c607b9080237cce0be0b86f52d51ba620dc018a3d421baea
+Deleted: sha256:be96a3f634de79f523f07c7e4e0216c28af45eb5776e7a6238a2392f71e01069
+end
+
+1693573527.302554,1693573527.695336,1693573542.8289394,
+0.1: Pulling from gaulthiergain/scamper_tnt
+58690f9b18fc: Pulling fs layer
+b51569e7c507: Pulling fs layer
+da8ef40b9eca: Pulling fs layer
+fb15d46c38dc: Pulling fs layer
+72ffbb1b8156: Pulling fs layer
+c5fc76517a62: Pulling fs layer
+c8db56c02c12: Pulling fs layer
+8bf0dd184eb7: Pulling fs layer
+4f4fb700ef54: Pulling fs layer
+7f5ac4f46940: Pulling fs layer
+378e754924a9: Pulling fs layer
+4c86be410c6a: Pulling fs layer
+600f0ef9216b: Pulling fs layer
+3677be3aa1a0: Pulling fs layer
+438628ade629: Pulling fs layer
+865367d1a4bd: Pulling fs layer
+6799276f7cfc: Pulling fs layer
+7f5ac4f46940: Waiting
+378e754924a9: Waiting
+4c86be410c6a: Waiting
+600f0ef9216b: Waiting
+3677be3aa1a0: Waiting
+438628ade629: Waiting
+fb15d46c38dc: Waiting
+865367d1a4bd: Waiting
+72ffbb1b8156: Waiting
+c5fc76517a62: Waiting
+c8db56c02c12: Waiting
+6799276f7cfc: Waiting
+8bf0dd184eb7: Waiting
+4f4fb700ef54: Waiting
+da8ef40b9eca: Verifying Checksum
+da8ef40b9eca: Download complete
+b51569e7c507: Verifying Checksum
+b51569e7c507: Download complete
+fb15d46c38dc: Verifying Checksum
+fb15d46c38dc: Download complete
+c5fc76517a62: Verifying Checksum
+c5fc76517a62: Download complete
+58690f9b18fc: Verifying Checksum
+58690f9b18fc: Download complete
+72ffbb1b8156: Verifying Checksum
+72ffbb1b8156: Download complete
+4f4fb700ef54: Verifying Checksum
+4f4fb700ef54: Download complete
+8bf0dd184eb7: Verifying Checksum
+8bf0dd184eb7: Download complete
+7f5ac4f46940: Verifying Checksum
+7f5ac4f46940: Download complete
+378e754924a9: Verifying Checksum
+378e754924a9: Download complete
+c8db56c02c12: Verifying Checksum
+c8db56c02c12: Download complete
+4c86be410c6a: Verifying Checksum
+4c86be410c6a: Download complete
+600f0ef9216b: Verifying Checksum
+600f0ef9216b: Download complete
+3677be3aa1a0: Verifying Checksum
+3677be3aa1a0: Download complete
+438628ade629: Verifying Checksum
+438628ade629: Download complete
+865367d1a4bd: Verifying Checksum
+865367d1a4bd: Download complete
+6799276f7cfc: Verifying Checksum
+6799276f7cfc: Download complete
+58690f9b18fc: Pull complete
+b51569e7c507: Pull complete
+da8ef40b9eca: Pull complete
+fb15d46c38dc: Pull complete
+72ffbb1b8156: Pull complete
+c5fc76517a62: Pull complete
+c8db56c02c12: Pull complete
+8bf0dd184eb7: Pull complete
+4f4fb700ef54: Pull complete
+7f5ac4f46940: Pull complete
+378e754924a9: Pull complete
+4c86be410c6a: Pull complete
+600f0ef9216b: Pull complete
+3677be3aa1a0: Pull complete
+438628ade629: Pull complete
+865367d1a4bd: Pull complete
+6799276f7cfc: Pull complete
+Digest: sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Status: Downloaded newer image for gaulthiergain/scamper_tnt:0.1
+docker.io/gaulthiergain/scamper_tnt:0.1
+t0: 1693573541305
+
+t1: 1693573542159411
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 172.17.0.1
+done
+t2: 1693573542160532
+Untagged: gaulthiergain/scamper_tnt:0.1
+Untagged: gaulthiergain/scamper_tnt@sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Deleted: sha256:8f7ee8fb4cd97557c4d41aa1fca5307e308a10a514b27e81bd3cf600936be83f
+Deleted: sha256:c996ae47cbfd6bc9f41cf1dfa3d6d8744ca9155015eeb1f8f9a1ed8fd1e88098
+Deleted: sha256:e341988497f7382f74008309812b90f2c135a6a1f86c93d07572aaaa6de8b5ef
+Deleted: sha256:f7e63ddf5519d84ac09d6f445cac64ff8b4d4f2b2a483e79cf315649c327e30f
+Deleted: sha256:218698ef24a5242db1cd3867462c7106d76e4a5eef62fa15c3d427e09db8e10f
+Deleted: sha256:c9b75cec70582ed1fa510e14da7c891c357fd928e242a6ed465ff57fed724a3b
+Deleted: sha256:af47f5f6c9ee8dcf934d955d5a7dfff419ebde329f531d8a93dd9d05f3e2ac5f
+Deleted: sha256:32333963c6f045e8ff2200be4032e3671032c72a30279a5ba0db4315036e2e23
+Deleted: sha256:9f65010d127f2553a6cf36a090ca0f5f821a3eb3f601e69a967ed0765bf21e97
+Deleted: sha256:4b78df93b68c33044e3f491be9f42d15a4b2b8db213a40fe024fb2a51c2d66d3
+Deleted: sha256:1301c4b1b75b7584991831dfab16130c7ca53c214f3a56e93604d553fa85ccee
+Deleted: sha256:7f0cc776595f4bddee4e8994ac9c943a1737df523e2e3c7eeb3d26ea5e04d090
+Deleted: sha256:fd89050172b05f3186dfbb82143efca8fbdc70342d885223659fbc4b6f3027b3
+Deleted: sha256:21c6c6a21f36599bf1a8cfdefa80cc186cc64791f921d97598f56eced6f2b59a
+Deleted: sha256:0214f4b057d78b44fd12702828152f67c0ce115f9346acc63acdf997cab7e7c8
+Deleted: sha256:1b9d0485372c5562fa614d5b35766f6c442539bcee9825a6e90d1158c3299a61
+Deleted: sha256:3c0f34be6eb98057c607b9080237cce0be0b86f52d51ba620dc018a3d421baea
+Deleted: sha256:be96a3f634de79f523f07c7e4e0216c28af45eb5776e7a6238a2392f71e01069
+end
+
+1693573529.1132312,1693573529.378581,1693573545.6225312,
+0.1: Pulling from gaulthiergain/scamper_tnt
+58690f9b18fc: Pulling fs layer
+b51569e7c507: Pulling fs layer
+da8ef40b9eca: Pulling fs layer
+fb15d46c38dc: Pulling fs layer
+72ffbb1b8156: Pulling fs layer
+c5fc76517a62: Pulling fs layer
+c8db56c02c12: Pulling fs layer
+8bf0dd184eb7: Pulling fs layer
+4f4fb700ef54: Pulling fs layer
+7f5ac4f46940: Pulling fs layer
+378e754924a9: Pulling fs layer
+4c86be410c6a: Pulling fs layer
+600f0ef9216b: Pulling fs layer
+3677be3aa1a0: Pulling fs layer
+438628ade629: Pulling fs layer
+865367d1a4bd: Pulling fs layer
+6799276f7cfc: Pulling fs layer
+7f5ac4f46940: Waiting
+378e754924a9: Waiting
+4c86be410c6a: Waiting
+600f0ef9216b: Waiting
+3677be3aa1a0: Waiting
+438628ade629: Waiting
+865367d1a4bd: Waiting
+6799276f7cfc: Waiting
+fb15d46c38dc: Waiting
+c5fc76517a62: Waiting
+72ffbb1b8156: Waiting
+c8db56c02c12: Waiting
+4f4fb700ef54: Waiting
+8bf0dd184eb7: Waiting
+da8ef40b9eca: Verifying Checksum
+da8ef40b9eca: Download complete
+b51569e7c507: Verifying Checksum
+b51569e7c507: Download complete
+fb15d46c38dc: Verifying Checksum
+fb15d46c38dc: Download complete
+58690f9b18fc: Verifying Checksum
+58690f9b18fc: Download complete
+c5fc76517a62: Verifying Checksum
+c5fc76517a62: Download complete
+72ffbb1b8156: Verifying Checksum
+72ffbb1b8156: Download complete
+8bf0dd184eb7: Verifying Checksum
+8bf0dd184eb7: Download complete
+4f4fb700ef54: Verifying Checksum
+4f4fb700ef54: Download complete
+7f5ac4f46940: Verifying Checksum
+7f5ac4f46940: Download complete
+378e754924a9: Verifying Checksum
+378e754924a9: Download complete
+c8db56c02c12: Verifying Checksum
+c8db56c02c12: Download complete
+4c86be410c6a: Verifying Checksum
+4c86be410c6a: Download complete
+600f0ef9216b: Verifying Checksum
+600f0ef9216b: Download complete
+3677be3aa1a0: Verifying Checksum
+3677be3aa1a0: Download complete
+438628ade629: Verifying Checksum
+438628ade629: Download complete
+865367d1a4bd: Verifying Checksum
+865367d1a4bd: Download complete
+6799276f7cfc: Verifying Checksum
+6799276f7cfc: Download complete
+58690f9b18fc: Pull complete
+b51569e7c507: Pull complete
+da8ef40b9eca: Pull complete
+fb15d46c38dc: Pull complete
+72ffbb1b8156: Pull complete
+c5fc76517a62: Pull complete
+c8db56c02c12: Pull complete
+8bf0dd184eb7: Pull complete
+4f4fb700ef54: Pull complete
+7f5ac4f46940: Pull complete
+378e754924a9: Pull complete
+4c86be410c6a: Pull complete
+600f0ef9216b: Pull complete
+3677be3aa1a0: Pull complete
+438628ade629: Pull complete
+865367d1a4bd: Pull complete
+6799276f7cfc: Pull complete
+Digest: sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Status: Downloaded newer image for gaulthiergain/scamper_tnt:0.1
+docker.io/gaulthiergain/scamper_tnt:0.1
+t0: 1693573544066
+
+t1: 1693573544914121
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 172.17.0.1
+done
+t2: 1693573544915323
+Untagged: gaulthiergain/scamper_tnt:0.1
+Untagged: gaulthiergain/scamper_tnt@sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Deleted: sha256:8f7ee8fb4cd97557c4d41aa1fca5307e308a10a514b27e81bd3cf600936be83f
+Deleted: sha256:c996ae47cbfd6bc9f41cf1dfa3d6d8744ca9155015eeb1f8f9a1ed8fd1e88098
+Deleted: sha256:e341988497f7382f74008309812b90f2c135a6a1f86c93d07572aaaa6de8b5ef
+Deleted: sha256:f7e63ddf5519d84ac09d6f445cac64ff8b4d4f2b2a483e79cf315649c327e30f
+Deleted: sha256:218698ef24a5242db1cd3867462c7106d76e4a5eef62fa15c3d427e09db8e10f
+Deleted: sha256:c9b75cec70582ed1fa510e14da7c891c357fd928e242a6ed465ff57fed724a3b
+Deleted: sha256:af47f5f6c9ee8dcf934d955d5a7dfff419ebde329f531d8a93dd9d05f3e2ac5f
+Deleted: sha256:32333963c6f045e8ff2200be4032e3671032c72a30279a5ba0db4315036e2e23
+Deleted: sha256:9f65010d127f2553a6cf36a090ca0f5f821a3eb3f601e69a967ed0765bf21e97
+Deleted: sha256:4b78df93b68c33044e3f491be9f42d15a4b2b8db213a40fe024fb2a51c2d66d3
+Deleted: sha256:1301c4b1b75b7584991831dfab16130c7ca53c214f3a56e93604d553fa85ccee
+Deleted: sha256:7f0cc776595f4bddee4e8994ac9c943a1737df523e2e3c7eeb3d26ea5e04d090
+Deleted: sha256:fd89050172b05f3186dfbb82143efca8fbdc70342d885223659fbc4b6f3027b3
+Deleted: sha256:21c6c6a21f36599bf1a8cfdefa80cc186cc64791f921d97598f56eced6f2b59a
+Deleted: sha256:0214f4b057d78b44fd12702828152f67c0ce115f9346acc63acdf997cab7e7c8
+Deleted: sha256:1b9d0485372c5562fa614d5b35766f6c442539bcee9825a6e90d1158c3299a61
+Deleted: sha256:3c0f34be6eb98057c607b9080237cce0be0b86f52d51ba620dc018a3d421baea
+Deleted: sha256:be96a3f634de79f523f07c7e4e0216c28af45eb5776e7a6238a2392f71e01069
+end
+
+1693573531.7816877,1693573532.7284389,1693573548.3303013,
+0.1: Pulling from gaulthiergain/scamper_tnt
+58690f9b18fc: Pulling fs layer
+b51569e7c507: Pulling fs layer
+da8ef40b9eca: Pulling fs layer
+fb15d46c38dc: Pulling fs layer
+72ffbb1b8156: Pulling fs layer
+c5fc76517a62: Pulling fs layer
+c8db56c02c12: Pulling fs layer
+8bf0dd184eb7: Pulling fs layer
+4f4fb700ef54: Pulling fs layer
+7f5ac4f46940: Pulling fs layer
+378e754924a9: Pulling fs layer
+4c86be410c6a: Pulling fs layer
+600f0ef9216b: Pulling fs layer
+3677be3aa1a0: Pulling fs layer
+438628ade629: Pulling fs layer
+865367d1a4bd: Pulling fs layer
+6799276f7cfc: Pulling fs layer
+fb15d46c38dc: Waiting
+72ffbb1b8156: Waiting
+c5fc76517a62: Waiting
+c8db56c02c12: Waiting
+8bf0dd184eb7: Waiting
+4f4fb700ef54: Waiting
+7f5ac4f46940: Waiting
+378e754924a9: Waiting
+4c86be410c6a: Waiting
+600f0ef9216b: Waiting
+3677be3aa1a0: Waiting
+438628ade629: Waiting
+865367d1a4bd: Waiting
+6799276f7cfc: Waiting
+b51569e7c507: Verifying Checksum
+b51569e7c507: Download complete
+da8ef40b9eca: Verifying Checksum
+da8ef40b9eca: Download complete
+fb15d46c38dc: Verifying Checksum
+fb15d46c38dc: Download complete
+c5fc76517a62: Verifying Checksum
+c5fc76517a62: Download complete
+72ffbb1b8156: Verifying Checksum
+72ffbb1b8156: Download complete
+58690f9b18fc: Verifying Checksum
+58690f9b18fc: Download complete
+4f4fb700ef54: Verifying Checksum
+4f4fb700ef54: Download complete
+7f5ac4f46940: Verifying Checksum
+7f5ac4f46940: Download complete
+8bf0dd184eb7: Verifying Checksum
+8bf0dd184eb7: Download complete
+378e754924a9: Verifying Checksum
+378e754924a9: Download complete
+4c86be410c6a: Verifying Checksum
+4c86be410c6a: Download complete
+600f0ef9216b: Verifying Checksum
+600f0ef9216b: Download complete
+c8db56c02c12: Verifying Checksum
+c8db56c02c12: Download complete
+3677be3aa1a0: Verifying Checksum
+3677be3aa1a0: Download complete
+438628ade629: Verifying Checksum
+438628ade629: Download complete
+865367d1a4bd: Verifying Checksum
+865367d1a4bd: Download complete
+6799276f7cfc: Verifying Checksum
+6799276f7cfc: Download complete
+58690f9b18fc: Pull complete
+b51569e7c507: Pull complete
+da8ef40b9eca: Pull complete
+fb15d46c38dc: Pull complete
+72ffbb1b8156: Pull complete
+c5fc76517a62: Pull complete
+c8db56c02c12: Pull complete
+8bf0dd184eb7: Pull complete
+4f4fb700ef54: Pull complete
+7f5ac4f46940: Pull complete
+378e754924a9: Pull complete
+4c86be410c6a: Pull complete
+600f0ef9216b: Pull complete
+3677be3aa1a0: Pull complete
+438628ade629: Pull complete
+865367d1a4bd: Pull complete
+6799276f7cfc: Pull complete
+Digest: sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Status: Downloaded newer image for gaulthiergain/scamper_tnt:0.1
+docker.io/gaulthiergain/scamper_tnt:0.1
+t0: 1693573546527
+
+t1: 1693573547468248
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 172.17.0.1
+done
+t2: 1693573547469448
+Untagged: gaulthiergain/scamper_tnt:0.1
+Untagged: gaulthiergain/scamper_tnt@sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Deleted: sha256:8f7ee8fb4cd97557c4d41aa1fca5307e308a10a514b27e81bd3cf600936be83f
+Deleted: sha256:c996ae47cbfd6bc9f41cf1dfa3d6d8744ca9155015eeb1f8f9a1ed8fd1e88098
+Deleted: sha256:e341988497f7382f74008309812b90f2c135a6a1f86c93d07572aaaa6de8b5ef
+Deleted: sha256:f7e63ddf5519d84ac09d6f445cac64ff8b4d4f2b2a483e79cf315649c327e30f
+Deleted: sha256:218698ef24a5242db1cd3867462c7106d76e4a5eef62fa15c3d427e09db8e10f
+Deleted: sha256:c9b75cec70582ed1fa510e14da7c891c357fd928e242a6ed465ff57fed724a3b
+Deleted: sha256:af47f5f6c9ee8dcf934d955d5a7dfff419ebde329f531d8a93dd9d05f3e2ac5f
+Deleted: sha256:32333963c6f045e8ff2200be4032e3671032c72a30279a5ba0db4315036e2e23
+Deleted: sha256:9f65010d127f2553a6cf36a090ca0f5f821a3eb3f601e69a967ed0765bf21e97
+Deleted: sha256:4b78df93b68c33044e3f491be9f42d15a4b2b8db213a40fe024fb2a51c2d66d3
+Deleted: sha256:1301c4b1b75b7584991831dfab16130c7ca53c214f3a56e93604d553fa85ccee
+Deleted: sha256:7f0cc776595f4bddee4e8994ac9c943a1737df523e2e3c7eeb3d26ea5e04d090
+Deleted: sha256:fd89050172b05f3186dfbb82143efca8fbdc70342d885223659fbc4b6f3027b3
+Deleted: sha256:21c6c6a21f36599bf1a8cfdefa80cc186cc64791f921d97598f56eced6f2b59a
+Deleted: sha256:0214f4b057d78b44fd12702828152f67c0ce115f9346acc63acdf997cab7e7c8
+Deleted: sha256:1b9d0485372c5562fa614d5b35766f6c442539bcee9825a6e90d1158c3299a61
+Deleted: sha256:3c0f34be6eb98057c607b9080237cce0be0b86f52d51ba620dc018a3d421baea
+Deleted: sha256:be96a3f634de79f523f07c7e4e0216c28af45eb5776e7a6238a2392f71e01069
+end
+
+1693573533.4436648,1693573535.0192382,1693573553.7916162,
+0.1: Pulling from gaulthiergain/scamper_tnt
+58690f9b18fc: Pulling fs layer
+b51569e7c507: Pulling fs layer
+da8ef40b9eca: Pulling fs layer
+fb15d46c38dc: Pulling fs layer
+72ffbb1b8156: Pulling fs layer
+c5fc76517a62: Pulling fs layer
+c8db56c02c12: Pulling fs layer
+8bf0dd184eb7: Pulling fs layer
+4f4fb700ef54: Pulling fs layer
+7f5ac4f46940: Pulling fs layer
+378e754924a9: Pulling fs layer
+4c86be410c6a: Pulling fs layer
+600f0ef9216b: Pulling fs layer
+3677be3aa1a0: Pulling fs layer
+438628ade629: Pulling fs layer
+865367d1a4bd: Pulling fs layer
+6799276f7cfc: Pulling fs layer
+fb15d46c38dc: Waiting
+72ffbb1b8156: Waiting
+c5fc76517a62: Waiting
+c8db56c02c12: Waiting
+8bf0dd184eb7: Waiting
+4f4fb700ef54: Waiting
+7f5ac4f46940: Waiting
+378e754924a9: Waiting
+4c86be410c6a: Waiting
+600f0ef9216b: Waiting
+3677be3aa1a0: Waiting
+438628ade629: Waiting
+865367d1a4bd: Waiting
+6799276f7cfc: Waiting
+b51569e7c507: Verifying Checksum
+b51569e7c507: Download complete
+da8ef40b9eca: Verifying Checksum
+da8ef40b9eca: Download complete
+58690f9b18fc: Verifying Checksum
+58690f9b18fc: Download complete
+fb15d46c38dc: Verifying Checksum
+fb15d46c38dc: Download complete
+72ffbb1b8156: Verifying Checksum
+72ffbb1b8156: Download complete
+c5fc76517a62: Verifying Checksum
+c5fc76517a62: Download complete
+8bf0dd184eb7: Verifying Checksum
+8bf0dd184eb7: Download complete
+4f4fb700ef54: Verifying Checksum
+4f4fb700ef54: Download complete
+c8db56c02c12: Verifying Checksum
+c8db56c02c12: Download complete
+7f5ac4f46940: Verifying Checksum
+7f5ac4f46940: Download complete
+378e754924a9: Verifying Checksum
+378e754924a9: Download complete
+4c86be410c6a: Verifying Checksum
+4c86be410c6a: Download complete
+600f0ef9216b: Verifying Checksum
+600f0ef9216b: Download complete
+3677be3aa1a0: Verifying Checksum
+3677be3aa1a0: Download complete
+438628ade629: Verifying Checksum
+438628ade629: Download complete
+58690f9b18fc: Pull complete
+865367d1a4bd: Verifying Checksum
+865367d1a4bd: Download complete
+b51569e7c507: Pull complete
+da8ef40b9eca: Pull complete
+fb15d46c38dc: Pull complete
+6799276f7cfc: Verifying Checksum
+6799276f7cfc: Download complete
+72ffbb1b8156: Pull complete
+c5fc76517a62: Pull complete
+c8db56c02c12: Pull complete
+8bf0dd184eb7: Pull complete
+4f4fb700ef54: Pull complete
+7f5ac4f46940: Pull complete
+378e754924a9: Pull complete
+4c86be410c6a: Pull complete
+600f0ef9216b: Pull complete
+3677be3aa1a0: Pull complete
+438628ade629: Pull complete
+865367d1a4bd: Pull complete
+6799276f7cfc: Pull complete
+Digest: sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Status: Downloaded newer image for gaulthiergain/scamper_tnt:0.1
+docker.io/gaulthiergain/scamper_tnt:0.1
+t0: 1693573552210
+
+t1: 1693573553052502
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 172.17.0.1
+done
+t2: 1693573553053749
+Untagged: gaulthiergain/scamper_tnt:0.1
+Untagged: gaulthiergain/scamper_tnt@sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Deleted: sha256:8f7ee8fb4cd97557c4d41aa1fca5307e308a10a514b27e81bd3cf600936be83f
+Deleted: sha256:c996ae47cbfd6bc9f41cf1dfa3d6d8744ca9155015eeb1f8f9a1ed8fd1e88098
+Deleted: sha256:e341988497f7382f74008309812b90f2c135a6a1f86c93d07572aaaa6de8b5ef
+Deleted: sha256:f7e63ddf5519d84ac09d6f445cac64ff8b4d4f2b2a483e79cf315649c327e30f
+Deleted: sha256:218698ef24a5242db1cd3867462c7106d76e4a5eef62fa15c3d427e09db8e10f
+Deleted: sha256:c9b75cec70582ed1fa510e14da7c891c357fd928e242a6ed465ff57fed724a3b
+Deleted: sha256:af47f5f6c9ee8dcf934d955d5a7dfff419ebde329f531d8a93dd9d05f3e2ac5f
+Deleted: sha256:32333963c6f045e8ff2200be4032e3671032c72a30279a5ba0db4315036e2e23
+Deleted: sha256:9f65010d127f2553a6cf36a090ca0f5f821a3eb3f601e69a967ed0765bf21e97
+Deleted: sha256:4b78df93b68c33044e3f491be9f42d15a4b2b8db213a40fe024fb2a51c2d66d3
+Deleted: sha256:1301c4b1b75b7584991831dfab16130c7ca53c214f3a56e93604d553fa85ccee
+Deleted: sha256:7f0cc776595f4bddee4e8994ac9c943a1737df523e2e3c7eeb3d26ea5e04d090
+Deleted: sha256:fd89050172b05f3186dfbb82143efca8fbdc70342d885223659fbc4b6f3027b3
+Deleted: sha256:21c6c6a21f36599bf1a8cfdefa80cc186cc64791f921d97598f56eced6f2b59a
+Deleted: sha256:0214f4b057d78b44fd12702828152f67c0ce115f9346acc63acdf997cab7e7c8
+Deleted: sha256:1b9d0485372c5562fa614d5b35766f6c442539bcee9825a6e90d1158c3299a61
+Deleted: sha256:3c0f34be6eb98057c607b9080237cce0be0b86f52d51ba620dc018a3d421baea
+Deleted: sha256:be96a3f634de79f523f07c7e4e0216c28af45eb5776e7a6238a2392f71e01069
+end
+
+1693573536.2788296,1693573538.6423295,1693573555.4229355,
+0.1: Pulling from gaulthiergain/scamper_tnt
+58690f9b18fc: Pulling fs layer
+b51569e7c507: Pulling fs layer
+da8ef40b9eca: Pulling fs layer
+fb15d46c38dc: Pulling fs layer
+72ffbb1b8156: Pulling fs layer
+c5fc76517a62: Pulling fs layer
+c8db56c02c12: Pulling fs layer
+8bf0dd184eb7: Pulling fs layer
+4f4fb700ef54: Pulling fs layer
+7f5ac4f46940: Pulling fs layer
+378e754924a9: Pulling fs layer
+4c86be410c6a: Pulling fs layer
+600f0ef9216b: Pulling fs layer
+3677be3aa1a0: Pulling fs layer
+438628ade629: Pulling fs layer
+865367d1a4bd: Pulling fs layer
+6799276f7cfc: Pulling fs layer
+7f5ac4f46940: Waiting
+378e754924a9: Waiting
+4c86be410c6a: Waiting
+600f0ef9216b: Waiting
+3677be3aa1a0: Waiting
+438628ade629: Waiting
+865367d1a4bd: Waiting
+6799276f7cfc: Waiting
+fb15d46c38dc: Waiting
+72ffbb1b8156: Waiting
+c5fc76517a62: Waiting
+c8db56c02c12: Waiting
+8bf0dd184eb7: Waiting
+4f4fb700ef54: Waiting
+b51569e7c507: Download complete
+da8ef40b9eca: Verifying Checksum
+da8ef40b9eca: Download complete
+fb15d46c38dc: Verifying Checksum
+fb15d46c38dc: Download complete
+58690f9b18fc: Verifying Checksum
+58690f9b18fc: Download complete
+72ffbb1b8156: Verifying Checksum
+72ffbb1b8156: Download complete
+c5fc76517a62: Verifying Checksum
+c5fc76517a62: Download complete
+8bf0dd184eb7: Verifying Checksum
+8bf0dd184eb7: Download complete
+4f4fb700ef54: Verifying Checksum
+4f4fb700ef54: Download complete
+7f5ac4f46940: Verifying Checksum
+7f5ac4f46940: Download complete
+c8db56c02c12: Verifying Checksum
+c8db56c02c12: Download complete
+378e754924a9: Verifying Checksum
+378e754924a9: Download complete
+4c86be410c6a: Verifying Checksum
+4c86be410c6a: Download complete
+3677be3aa1a0: Verifying Checksum
+3677be3aa1a0: Download complete
+600f0ef9216b: Verifying Checksum
+600f0ef9216b: Download complete
+6799276f7cfc: Verifying Checksum
+6799276f7cfc: Download complete
+438628ade629: Verifying Checksum
+438628ade629: Download complete
+865367d1a4bd: Verifying Checksum
+865367d1a4bd: Download complete
+58690f9b18fc: Pull complete
+b51569e7c507: Pull complete
+da8ef40b9eca: Pull complete
+fb15d46c38dc: Pull complete
+72ffbb1b8156: Pull complete
+c5fc76517a62: Pull complete
+c8db56c02c12: Pull complete
+8bf0dd184eb7: Pull complete
+4f4fb700ef54: Pull complete
+7f5ac4f46940: Pull complete
+378e754924a9: Pull complete
+4c86be410c6a: Pull complete
+600f0ef9216b: Pull complete
+3677be3aa1a0: Pull complete
+438628ade629: Pull complete
+865367d1a4bd: Pull complete
+6799276f7cfc: Pull complete
+Digest: sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Status: Downloaded newer image for gaulthiergain/scamper_tnt:0.1
+docker.io/gaulthiergain/scamper_tnt:0.1
+t0: 1693573553750
+
+t1: 1693573554631405
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 172.17.0.1
+done
+t2: 1693573554632451
+Untagged: gaulthiergain/scamper_tnt:0.1
+Untagged: gaulthiergain/scamper_tnt@sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Deleted: sha256:8f7ee8fb4cd97557c4d41aa1fca5307e308a10a514b27e81bd3cf600936be83f
+Deleted: sha256:c996ae47cbfd6bc9f41cf1dfa3d6d8744ca9155015eeb1f8f9a1ed8fd1e88098
+Deleted: sha256:e341988497f7382f74008309812b90f2c135a6a1f86c93d07572aaaa6de8b5ef
+Deleted: sha256:f7e63ddf5519d84ac09d6f445cac64ff8b4d4f2b2a483e79cf315649c327e30f
+Deleted: sha256:218698ef24a5242db1cd3867462c7106d76e4a5eef62fa15c3d427e09db8e10f
+Deleted: sha256:c9b75cec70582ed1fa510e14da7c891c357fd928e242a6ed465ff57fed724a3b
+Deleted: sha256:af47f5f6c9ee8dcf934d955d5a7dfff419ebde329f531d8a93dd9d05f3e2ac5f
+Deleted: sha256:32333963c6f045e8ff2200be4032e3671032c72a30279a5ba0db4315036e2e23
+Deleted: sha256:9f65010d127f2553a6cf36a090ca0f5f821a3eb3f601e69a967ed0765bf21e97
+Deleted: sha256:4b78df93b68c33044e3f491be9f42d15a4b2b8db213a40fe024fb2a51c2d66d3
+Deleted: sha256:1301c4b1b75b7584991831dfab16130c7ca53c214f3a56e93604d553fa85ccee
+Deleted: sha256:7f0cc776595f4bddee4e8994ac9c943a1737df523e2e3c7eeb3d26ea5e04d090
+Deleted: sha256:fd89050172b05f3186dfbb82143efca8fbdc70342d885223659fbc4b6f3027b3
+Deleted: sha256:21c6c6a21f36599bf1a8cfdefa80cc186cc64791f921d97598f56eced6f2b59a
+Deleted: sha256:0214f4b057d78b44fd12702828152f67c0ce115f9346acc63acdf997cab7e7c8
+Deleted: sha256:1b9d0485372c5562fa614d5b35766f6c442539bcee9825a6e90d1158c3299a61
+Deleted: sha256:3c0f34be6eb98057c607b9080237cce0be0b86f52d51ba620dc018a3d421baea
+Deleted: sha256:be96a3f634de79f523f07c7e4e0216c28af45eb5776e7a6238a2392f71e01069
+end
+
+1693573543.4243646,1693573543.9236088,1693573559.0037613,
+0.1: Pulling from gaulthiergain/scamper_tnt
+58690f9b18fc: Pulling fs layer
+b51569e7c507: Pulling fs layer
+da8ef40b9eca: Pulling fs layer
+fb15d46c38dc: Pulling fs layer
+72ffbb1b8156: Pulling fs layer
+c5fc76517a62: Pulling fs layer
+c8db56c02c12: Pulling fs layer
+8bf0dd184eb7: Pulling fs layer
+4f4fb700ef54: Pulling fs layer
+7f5ac4f46940: Pulling fs layer
+378e754924a9: Pulling fs layer
+4c86be410c6a: Pulling fs layer
+600f0ef9216b: Pulling fs layer
+3677be3aa1a0: Pulling fs layer
+438628ade629: Pulling fs layer
+865367d1a4bd: Pulling fs layer
+6799276f7cfc: Pulling fs layer
+fb15d46c38dc: Waiting
+72ffbb1b8156: Waiting
+c5fc76517a62: Waiting
+c8db56c02c12: Waiting
+8bf0dd184eb7: Waiting
+4f4fb700ef54: Waiting
+7f5ac4f46940: Waiting
+378e754924a9: Waiting
+4c86be410c6a: Waiting
+600f0ef9216b: Waiting
+3677be3aa1a0: Waiting
+438628ade629: Waiting
+865367d1a4bd: Waiting
+6799276f7cfc: Waiting
+b51569e7c507: Verifying Checksum
+b51569e7c507: Download complete
+da8ef40b9eca: Verifying Checksum
+da8ef40b9eca: Download complete
+fb15d46c38dc: Verifying Checksum
+fb15d46c38dc: Download complete
+c5fc76517a62: Verifying Checksum
+c5fc76517a62: Download complete
+58690f9b18fc: Verifying Checksum
+58690f9b18fc: Download complete
+72ffbb1b8156: Verifying Checksum
+72ffbb1b8156: Download complete
+4f4fb700ef54: Verifying Checksum
+4f4fb700ef54: Download complete
+8bf0dd184eb7: Verifying Checksum
+8bf0dd184eb7: Download complete
+7f5ac4f46940: Verifying Checksum
+7f5ac4f46940: Download complete
+378e754924a9: Verifying Checksum
+378e754924a9: Download complete
+c8db56c02c12: Verifying Checksum
+c8db56c02c12: Download complete
+4c86be410c6a: Verifying Checksum
+4c86be410c6a: Download complete
+600f0ef9216b: Verifying Checksum
+600f0ef9216b: Download complete
+3677be3aa1a0: Verifying Checksum
+3677be3aa1a0: Download complete
+438628ade629: Verifying Checksum
+438628ade629: Download complete
+865367d1a4bd: Verifying Checksum
+865367d1a4bd: Download complete
+6799276f7cfc: Verifying Checksum
+6799276f7cfc: Download complete
+58690f9b18fc: Pull complete
+b51569e7c507: Pull complete
+da8ef40b9eca: Pull complete
+fb15d46c38dc: Pull complete
+72ffbb1b8156: Pull complete
+c5fc76517a62: Pull complete
+c8db56c02c12: Pull complete
+8bf0dd184eb7: Pull complete
+4f4fb700ef54: Pull complete
+7f5ac4f46940: Pull complete
+378e754924a9: Pull complete
+4c86be410c6a: Pull complete
+600f0ef9216b: Pull complete
+3677be3aa1a0: Pull complete
+438628ade629: Pull complete
+865367d1a4bd: Pull complete
+6799276f7cfc: Pull complete
+Digest: sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Status: Downloaded newer image for gaulthiergain/scamper_tnt:0.1
+docker.io/gaulthiergain/scamper_tnt:0.1
+t0: 1693573557526
+
+t1: 1693573558338461
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 172.17.0.1
+done
+t2: 1693573558339549
+Untagged: gaulthiergain/scamper_tnt:0.1
+Untagged: gaulthiergain/scamper_tnt@sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Deleted: sha256:8f7ee8fb4cd97557c4d41aa1fca5307e308a10a514b27e81bd3cf600936be83f
+Deleted: sha256:c996ae47cbfd6bc9f41cf1dfa3d6d8744ca9155015eeb1f8f9a1ed8fd1e88098
+Deleted: sha256:e341988497f7382f74008309812b90f2c135a6a1f86c93d07572aaaa6de8b5ef
+Deleted: sha256:f7e63ddf5519d84ac09d6f445cac64ff8b4d4f2b2a483e79cf315649c327e30f
+Deleted: sha256:218698ef24a5242db1cd3867462c7106d76e4a5eef62fa15c3d427e09db8e10f
+Deleted: sha256:c9b75cec70582ed1fa510e14da7c891c357fd928e242a6ed465ff57fed724a3b
+Deleted: sha256:af47f5f6c9ee8dcf934d955d5a7dfff419ebde329f531d8a93dd9d05f3e2ac5f
+Deleted: sha256:32333963c6f045e8ff2200be4032e3671032c72a30279a5ba0db4315036e2e23
+Deleted: sha256:9f65010d127f2553a6cf36a090ca0f5f821a3eb3f601e69a967ed0765bf21e97
+Deleted: sha256:4b78df93b68c33044e3f491be9f42d15a4b2b8db213a40fe024fb2a51c2d66d3
+Deleted: sha256:1301c4b1b75b7584991831dfab16130c7ca53c214f3a56e93604d553fa85ccee
+Deleted: sha256:7f0cc776595f4bddee4e8994ac9c943a1737df523e2e3c7eeb3d26ea5e04d090
+Deleted: sha256:fd89050172b05f3186dfbb82143efca8fbdc70342d885223659fbc4b6f3027b3
+Deleted: sha256:21c6c6a21f36599bf1a8cfdefa80cc186cc64791f921d97598f56eced6f2b59a
+Deleted: sha256:0214f4b057d78b44fd12702828152f67c0ce115f9346acc63acdf997cab7e7c8
+Deleted: sha256:1b9d0485372c5562fa614d5b35766f6c442539bcee9825a6e90d1158c3299a61
+Deleted: sha256:3c0f34be6eb98057c607b9080237cce0be0b86f52d51ba620dc018a3d421baea
+Deleted: sha256:be96a3f634de79f523f07c7e4e0216c28af45eb5776e7a6238a2392f71e01069
+end
+
+1693573546.2123113,1693573546.688256,1693573562.2718065,
+0.1: Pulling from gaulthiergain/scamper_tnt
+58690f9b18fc: Pulling fs layer
+b51569e7c507: Pulling fs layer
+da8ef40b9eca: Pulling fs layer
+fb15d46c38dc: Pulling fs layer
+72ffbb1b8156: Pulling fs layer
+c5fc76517a62: Pulling fs layer
+c8db56c02c12: Pulling fs layer
+8bf0dd184eb7: Pulling fs layer
+4f4fb700ef54: Pulling fs layer
+7f5ac4f46940: Pulling fs layer
+378e754924a9: Pulling fs layer
+4c86be410c6a: Pulling fs layer
+600f0ef9216b: Pulling fs layer
+3677be3aa1a0: Pulling fs layer
+438628ade629: Pulling fs layer
+865367d1a4bd: Pulling fs layer
+6799276f7cfc: Pulling fs layer
+4f4fb700ef54: Waiting
+7f5ac4f46940: Waiting
+378e754924a9: Waiting
+4c86be410c6a: Waiting
+600f0ef9216b: Waiting
+3677be3aa1a0: Waiting
+438628ade629: Waiting
+865367d1a4bd: Waiting
+6799276f7cfc: Waiting
+fb15d46c38dc: Waiting
+72ffbb1b8156: Waiting
+c5fc76517a62: Waiting
+c8db56c02c12: Waiting
+8bf0dd184eb7: Waiting
+da8ef40b9eca: Verifying Checksum
+da8ef40b9eca: Download complete
+b51569e7c507: Verifying Checksum
+b51569e7c507: Download complete
+fb15d46c38dc: Verifying Checksum
+fb15d46c38dc: Download complete
+c5fc76517a62: Verifying Checksum
+c5fc76517a62: Download complete
+58690f9b18fc: Download complete
+72ffbb1b8156: Verifying Checksum
+72ffbb1b8156: Download complete
+4f4fb700ef54: Download complete
+8bf0dd184eb7: Verifying Checksum
+8bf0dd184eb7: Download complete
+378e754924a9: Verifying Checksum
+378e754924a9: Download complete
+7f5ac4f46940: Verifying Checksum
+7f5ac4f46940: Download complete
+c8db56c02c12: Verifying Checksum
+c8db56c02c12: Download complete
+600f0ef9216b: Verifying Checksum
+600f0ef9216b: Download complete
+4c86be410c6a: Verifying Checksum
+4c86be410c6a: Download complete
+3677be3aa1a0: Verifying Checksum
+3677be3aa1a0: Download complete
+438628ade629: Verifying Checksum
+438628ade629: Download complete
+865367d1a4bd: Verifying Checksum
+865367d1a4bd: Download complete
+6799276f7cfc: Verifying Checksum
+6799276f7cfc: Download complete
+58690f9b18fc: Pull complete
+b51569e7c507: Pull complete
+da8ef40b9eca: Pull complete
+fb15d46c38dc: Pull complete
+72ffbb1b8156: Pull complete
+c5fc76517a62: Pull complete
+c8db56c02c12: Pull complete
+8bf0dd184eb7: Pull complete
+4f4fb700ef54: Pull complete
+7f5ac4f46940: Pull complete
+378e754924a9: Pull complete
+4c86be410c6a: Pull complete
+600f0ef9216b: Pull complete
+3677be3aa1a0: Pull complete
+438628ade629: Pull complete
+865367d1a4bd: Pull complete
+6799276f7cfc: Pull complete
+Digest: sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Status: Downloaded newer image for gaulthiergain/scamper_tnt:0.1
+docker.io/gaulthiergain/scamper_tnt:0.1
+t0: 1693573560592
+
+t1: 1693573561463896
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 172.17.0.1
+done
+t2: 1693573561465560
+Untagged: gaulthiergain/scamper_tnt:0.1
+Untagged: gaulthiergain/scamper_tnt@sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Deleted: sha256:8f7ee8fb4cd97557c4d41aa1fca5307e308a10a514b27e81bd3cf600936be83f
+Deleted: sha256:c996ae47cbfd6bc9f41cf1dfa3d6d8744ca9155015eeb1f8f9a1ed8fd1e88098
+Deleted: sha256:e341988497f7382f74008309812b90f2c135a6a1f86c93d07572aaaa6de8b5ef
+Deleted: sha256:f7e63ddf5519d84ac09d6f445cac64ff8b4d4f2b2a483e79cf315649c327e30f
+Deleted: sha256:218698ef24a5242db1cd3867462c7106d76e4a5eef62fa15c3d427e09db8e10f
+Deleted: sha256:c9b75cec70582ed1fa510e14da7c891c357fd928e242a6ed465ff57fed724a3b
+Deleted: sha256:af47f5f6c9ee8dcf934d955d5a7dfff419ebde329f531d8a93dd9d05f3e2ac5f
+Deleted: sha256:32333963c6f045e8ff2200be4032e3671032c72a30279a5ba0db4315036e2e23
+Deleted: sha256:9f65010d127f2553a6cf36a090ca0f5f821a3eb3f601e69a967ed0765bf21e97
+Deleted: sha256:4b78df93b68c33044e3f491be9f42d15a4b2b8db213a40fe024fb2a51c2d66d3
+Deleted: sha256:1301c4b1b75b7584991831dfab16130c7ca53c214f3a56e93604d553fa85ccee
+Deleted: sha256:7f0cc776595f4bddee4e8994ac9c943a1737df523e2e3c7eeb3d26ea5e04d090
+Deleted: sha256:fd89050172b05f3186dfbb82143efca8fbdc70342d885223659fbc4b6f3027b3
+Deleted: sha256:21c6c6a21f36599bf1a8cfdefa80cc186cc64791f921d97598f56eced6f2b59a
+Deleted: sha256:0214f4b057d78b44fd12702828152f67c0ce115f9346acc63acdf997cab7e7c8
+Deleted: sha256:1b9d0485372c5562fa614d5b35766f6c442539bcee9825a6e90d1158c3299a61
+Deleted: sha256:3c0f34be6eb98057c607b9080237cce0be0b86f52d51ba620dc018a3d421baea
+Deleted: sha256:be96a3f634de79f523f07c7e4e0216c28af45eb5776e7a6238a2392f71e01069
+end
+
+1693573549.9293778,1693573550.8274083,1693573566.4892406,
+0.1: Pulling from gaulthiergain/scamper_tnt
+58690f9b18fc: Pulling fs layer
+b51569e7c507: Pulling fs layer
+da8ef40b9eca: Pulling fs layer
+fb15d46c38dc: Pulling fs layer
+72ffbb1b8156: Pulling fs layer
+c5fc76517a62: Pulling fs layer
+c8db56c02c12: Pulling fs layer
+8bf0dd184eb7: Pulling fs layer
+4f4fb700ef54: Pulling fs layer
+7f5ac4f46940: Pulling fs layer
+378e754924a9: Pulling fs layer
+4c86be410c6a: Pulling fs layer
+600f0ef9216b: Pulling fs layer
+3677be3aa1a0: Pulling fs layer
+438628ade629: Pulling fs layer
+865367d1a4bd: Pulling fs layer
+6799276f7cfc: Pulling fs layer
+4f4fb700ef54: Waiting
+7f5ac4f46940: Waiting
+378e754924a9: Waiting
+4c86be410c6a: Waiting
+600f0ef9216b: Waiting
+3677be3aa1a0: Waiting
+438628ade629: Waiting
+865367d1a4bd: Waiting
+6799276f7cfc: Waiting
+72ffbb1b8156: Waiting
+c5fc76517a62: Waiting
+c8db56c02c12: Waiting
+8bf0dd184eb7: Waiting
+fb15d46c38dc: Waiting
+b51569e7c507: Verifying Checksum
+b51569e7c507: Download complete
+fb15d46c38dc: Verifying Checksum
+fb15d46c38dc: Download complete
+da8ef40b9eca: Verifying Checksum
+da8ef40b9eca: Download complete
+58690f9b18fc: Verifying Checksum
+58690f9b18fc: Download complete
+c5fc76517a62: Verifying Checksum
+c5fc76517a62: Download complete
+72ffbb1b8156: Verifying Checksum
+72ffbb1b8156: Download complete
+8bf0dd184eb7: Verifying Checksum
+8bf0dd184eb7: Download complete
+4f4fb700ef54: Verifying Checksum
+4f4fb700ef54: Download complete
+7f5ac4f46940: Verifying Checksum
+7f5ac4f46940: Download complete
+378e754924a9: Verifying Checksum
+378e754924a9: Download complete
+600f0ef9216b: Verifying Checksum
+600f0ef9216b: Download complete
+4c86be410c6a: Verifying Checksum
+4c86be410c6a: Download complete
+3677be3aa1a0: Verifying Checksum
+3677be3aa1a0: Download complete
+438628ade629: Verifying Checksum
+438628ade629: Download complete
+c8db56c02c12: Verifying Checksum
+c8db56c02c12: Download complete
+6799276f7cfc: Verifying Checksum
+6799276f7cfc: Download complete
+865367d1a4bd: Verifying Checksum
+865367d1a4bd: Download complete
+58690f9b18fc: Pull complete
+b51569e7c507: Pull complete
+da8ef40b9eca: Pull complete
+fb15d46c38dc: Pull complete
+72ffbb1b8156: Pull complete
+c5fc76517a62: Pull complete
+c8db56c02c12: Pull complete
+8bf0dd184eb7: Pull complete
+4f4fb700ef54: Pull complete
+7f5ac4f46940: Pull complete
+378e754924a9: Pull complete
+4c86be410c6a: Pull complete
+600f0ef9216b: Pull complete
+3677be3aa1a0: Pull complete
+438628ade629: Pull complete
+865367d1a4bd: Pull complete
+6799276f7cfc: Pull complete
+Digest: sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Status: Downloaded newer image for gaulthiergain/scamper_tnt:0.1
+docker.io/gaulthiergain/scamper_tnt:0.1
+t0: 1693573564875
+
+t1: 1693573565625367
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 172.17.0.1
+done
+t2: 1693573565627169
+Untagged: gaulthiergain/scamper_tnt:0.1
+Untagged: gaulthiergain/scamper_tnt@sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Deleted: sha256:8f7ee8fb4cd97557c4d41aa1fca5307e308a10a514b27e81bd3cf600936be83f
+Deleted: sha256:c996ae47cbfd6bc9f41cf1dfa3d6d8744ca9155015eeb1f8f9a1ed8fd1e88098
+Deleted: sha256:e341988497f7382f74008309812b90f2c135a6a1f86c93d07572aaaa6de8b5ef
+Deleted: sha256:f7e63ddf5519d84ac09d6f445cac64ff8b4d4f2b2a483e79cf315649c327e30f
+Deleted: sha256:218698ef24a5242db1cd3867462c7106d76e4a5eef62fa15c3d427e09db8e10f
+Deleted: sha256:c9b75cec70582ed1fa510e14da7c891c357fd928e242a6ed465ff57fed724a3b
+Deleted: sha256:af47f5f6c9ee8dcf934d955d5a7dfff419ebde329f531d8a93dd9d05f3e2ac5f
+Deleted: sha256:32333963c6f045e8ff2200be4032e3671032c72a30279a5ba0db4315036e2e23
+Deleted: sha256:9f65010d127f2553a6cf36a090ca0f5f821a3eb3f601e69a967ed0765bf21e97
+Deleted: sha256:4b78df93b68c33044e3f491be9f42d15a4b2b8db213a40fe024fb2a51c2d66d3
+Deleted: sha256:1301c4b1b75b7584991831dfab16130c7ca53c214f3a56e93604d553fa85ccee
+Deleted: sha256:7f0cc776595f4bddee4e8994ac9c943a1737df523e2e3c7eeb3d26ea5e04d090
+Deleted: sha256:fd89050172b05f3186dfbb82143efca8fbdc70342d885223659fbc4b6f3027b3
+Deleted: sha256:21c6c6a21f36599bf1a8cfdefa80cc186cc64791f921d97598f56eced6f2b59a
+Deleted: sha256:0214f4b057d78b44fd12702828152f67c0ce115f9346acc63acdf997cab7e7c8
+Deleted: sha256:1b9d0485372c5562fa614d5b35766f6c442539bcee9825a6e90d1158c3299a61
+Deleted: sha256:3c0f34be6eb98057c607b9080237cce0be0b86f52d51ba620dc018a3d421baea
+Deleted: sha256:be96a3f634de79f523f07c7e4e0216c28af45eb5776e7a6238a2392f71e01069
+end
+
+1693573555.547244,1693573557.059675,1693573576.5626795,
+0.1: Pulling from gaulthiergain/scamper_tnt
+58690f9b18fc: Pulling fs layer
+b51569e7c507: Pulling fs layer
+da8ef40b9eca: Pulling fs layer
+fb15d46c38dc: Pulling fs layer
+72ffbb1b8156: Pulling fs layer
+c5fc76517a62: Pulling fs layer
+c8db56c02c12: Pulling fs layer
+8bf0dd184eb7: Pulling fs layer
+4f4fb700ef54: Pulling fs layer
+7f5ac4f46940: Pulling fs layer
+378e754924a9: Pulling fs layer
+4c86be410c6a: Pulling fs layer
+600f0ef9216b: Pulling fs layer
+3677be3aa1a0: Pulling fs layer
+438628ade629: Pulling fs layer
+865367d1a4bd: Pulling fs layer
+6799276f7cfc: Pulling fs layer
+fb15d46c38dc: Waiting
+72ffbb1b8156: Waiting
+c5fc76517a62: Waiting
+c8db56c02c12: Waiting
+8bf0dd184eb7: Waiting
+4f4fb700ef54: Waiting
+7f5ac4f46940: Waiting
+378e754924a9: Waiting
+4c86be410c6a: Waiting
+600f0ef9216b: Waiting
+3677be3aa1a0: Waiting
+438628ade629: Waiting
+865367d1a4bd: Waiting
+6799276f7cfc: Waiting
+da8ef40b9eca: Verifying Checksum
+da8ef40b9eca: Download complete
+b51569e7c507: Verifying Checksum
+b51569e7c507: Download complete
+58690f9b18fc: Verifying Checksum
+58690f9b18fc: Download complete
+fb15d46c38dc: Verifying Checksum
+fb15d46c38dc: Download complete
+72ffbb1b8156: Verifying Checksum
+72ffbb1b8156: Download complete
+c5fc76517a62: Verifying Checksum
+c5fc76517a62: Download complete
+8bf0dd184eb7: Verifying Checksum
+8bf0dd184eb7: Download complete
+4f4fb700ef54: Verifying Checksum
+4f4fb700ef54: Download complete
+c8db56c02c12: Verifying Checksum
+c8db56c02c12: Download complete
+7f5ac4f46940: Download complete
+378e754924a9: Verifying Checksum
+378e754924a9: Download complete
+4c86be410c6a: Verifying Checksum
+4c86be410c6a: Download complete
+600f0ef9216b: Verifying Checksum
+600f0ef9216b: Download complete
+3677be3aa1a0: Verifying Checksum
+3677be3aa1a0: Download complete
+438628ade629: Verifying Checksum
+438628ade629: Download complete
+865367d1a4bd: Verifying Checksum
+865367d1a4bd: Download complete
+6799276f7cfc: Verifying Checksum
+6799276f7cfc: Download complete
+58690f9b18fc: Pull complete
+b51569e7c507: Pull complete
+da8ef40b9eca: Pull complete
+fb15d46c38dc: Pull complete
+72ffbb1b8156: Pull complete
+c5fc76517a62: Pull complete
+c8db56c02c12: Pull complete
+8bf0dd184eb7: Pull complete
+4f4fb700ef54: Pull complete
+7f5ac4f46940: Pull complete
+378e754924a9: Pull complete
+4c86be410c6a: Pull complete
+600f0ef9216b: Pull complete
+3677be3aa1a0: Pull complete
+438628ade629: Pull complete
+865367d1a4bd: Pull complete
+6799276f7cfc: Pull complete
+Digest: sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Status: Downloaded newer image for gaulthiergain/scamper_tnt:0.1
+docker.io/gaulthiergain/scamper_tnt:0.1
+t0: 1693573574888
+
+t1: 1693573575774771
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 172.17.0.1
+done
+t2: 1693573575776370
+Untagged: gaulthiergain/scamper_tnt:0.1
+Untagged: gaulthiergain/scamper_tnt@sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Deleted: sha256:8f7ee8fb4cd97557c4d41aa1fca5307e308a10a514b27e81bd3cf600936be83f
+Deleted: sha256:c996ae47cbfd6bc9f41cf1dfa3d6d8744ca9155015eeb1f8f9a1ed8fd1e88098
+Deleted: sha256:e341988497f7382f74008309812b90f2c135a6a1f86c93d07572aaaa6de8b5ef
+Deleted: sha256:f7e63ddf5519d84ac09d6f445cac64ff8b4d4f2b2a483e79cf315649c327e30f
+Deleted: sha256:218698ef24a5242db1cd3867462c7106d76e4a5eef62fa15c3d427e09db8e10f
+Deleted: sha256:c9b75cec70582ed1fa510e14da7c891c357fd928e242a6ed465ff57fed724a3b
+Deleted: sha256:af47f5f6c9ee8dcf934d955d5a7dfff419ebde329f531d8a93dd9d05f3e2ac5f
+Deleted: sha256:32333963c6f045e8ff2200be4032e3671032c72a30279a5ba0db4315036e2e23
+Deleted: sha256:9f65010d127f2553a6cf36a090ca0f5f821a3eb3f601e69a967ed0765bf21e97
+Deleted: sha256:4b78df93b68c33044e3f491be9f42d15a4b2b8db213a40fe024fb2a51c2d66d3
+Deleted: sha256:1301c4b1b75b7584991831dfab16130c7ca53c214f3a56e93604d553fa85ccee
+Deleted: sha256:7f0cc776595f4bddee4e8994ac9c943a1737df523e2e3c7eeb3d26ea5e04d090
+Deleted: sha256:fd89050172b05f3186dfbb82143efca8fbdc70342d885223659fbc4b6f3027b3
+Deleted: sha256:21c6c6a21f36599bf1a8cfdefa80cc186cc64791f921d97598f56eced6f2b59a
+Deleted: sha256:0214f4b057d78b44fd12702828152f67c0ce115f9346acc63acdf997cab7e7c8
+Deleted: sha256:1b9d0485372c5562fa614d5b35766f6c442539bcee9825a6e90d1158c3299a61
+Deleted: sha256:3c0f34be6eb98057c607b9080237cce0be0b86f52d51ba620dc018a3d421baea
+Deleted: sha256:be96a3f634de79f523f07c7e4e0216c28af45eb5776e7a6238a2392f71e01069
+end
+
+1693573560.6491015,1693573561.1708777,1693573576.7216663,
+0.1: Pulling from gaulthiergain/scamper_tnt
+58690f9b18fc: Pulling fs layer
+b51569e7c507: Pulling fs layer
+da8ef40b9eca: Pulling fs layer
+fb15d46c38dc: Pulling fs layer
+72ffbb1b8156: Pulling fs layer
+c5fc76517a62: Pulling fs layer
+c8db56c02c12: Pulling fs layer
+8bf0dd184eb7: Pulling fs layer
+4f4fb700ef54: Pulling fs layer
+7f5ac4f46940: Pulling fs layer
+378e754924a9: Pulling fs layer
+4c86be410c6a: Pulling fs layer
+600f0ef9216b: Pulling fs layer
+3677be3aa1a0: Pulling fs layer
+438628ade629: Pulling fs layer
+865367d1a4bd: Pulling fs layer
+6799276f7cfc: Pulling fs layer
+fb15d46c38dc: Waiting
+72ffbb1b8156: Waiting
+c5fc76517a62: Waiting
+c8db56c02c12: Waiting
+8bf0dd184eb7: Waiting
+4f4fb700ef54: Waiting
+7f5ac4f46940: Waiting
+378e754924a9: Waiting
+4c86be410c6a: Waiting
+600f0ef9216b: Waiting
+3677be3aa1a0: Waiting
+438628ade629: Waiting
+865367d1a4bd: Waiting
+6799276f7cfc: Waiting
+da8ef40b9eca: Verifying Checksum
+da8ef40b9eca: Download complete
+b51569e7c507: Verifying Checksum
+b51569e7c507: Download complete
+fb15d46c38dc: Download complete
+58690f9b18fc: Verifying Checksum
+58690f9b18fc: Download complete
+c5fc76517a62: Verifying Checksum
+c5fc76517a62: Download complete
+72ffbb1b8156: Verifying Checksum
+72ffbb1b8156: Download complete
+4f4fb700ef54: Verifying Checksum
+4f4fb700ef54: Download complete
+8bf0dd184eb7: Verifying Checksum
+8bf0dd184eb7: Download complete
+7f5ac4f46940: Verifying Checksum
+7f5ac4f46940: Download complete
+378e754924a9: Verifying Checksum
+378e754924a9: Download complete
+600f0ef9216b: Verifying Checksum
+600f0ef9216b: Download complete
+c8db56c02c12: Verifying Checksum
+c8db56c02c12: Download complete
+4c86be410c6a: Verifying Checksum
+4c86be410c6a: Download complete
+3677be3aa1a0: Verifying Checksum
+3677be3aa1a0: Download complete
+438628ade629: Verifying Checksum
+438628ade629: Download complete
+865367d1a4bd: Verifying Checksum
+865367d1a4bd: Download complete
+6799276f7cfc: Verifying Checksum
+6799276f7cfc: Download complete
+58690f9b18fc: Pull complete
+b51569e7c507: Pull complete
+da8ef40b9eca: Pull complete
+fb15d46c38dc: Pull complete
+72ffbb1b8156: Pull complete
+c5fc76517a62: Pull complete
+c8db56c02c12: Pull complete
+8bf0dd184eb7: Pull complete
+4f4fb700ef54: Pull complete
+7f5ac4f46940: Pull complete
+378e754924a9: Pull complete
+4c86be410c6a: Pull complete
+600f0ef9216b: Pull complete
+3677be3aa1a0: Pull complete
+438628ade629: Pull complete
+865367d1a4bd: Pull complete
+6799276f7cfc: Pull complete
+Digest: sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Status: Downloaded newer image for gaulthiergain/scamper_tnt:0.1
+docker.io/gaulthiergain/scamper_tnt:0.1
+t0: 1693573575034
+
+t1: 1693573576058327
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 172.17.0.1
+done
+t2: 1693573576059267
+Untagged: gaulthiergain/scamper_tnt:0.1
+Untagged: gaulthiergain/scamper_tnt@sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Deleted: sha256:8f7ee8fb4cd97557c4d41aa1fca5307e308a10a514b27e81bd3cf600936be83f
+Deleted: sha256:c996ae47cbfd6bc9f41cf1dfa3d6d8744ca9155015eeb1f8f9a1ed8fd1e88098
+Deleted: sha256:e341988497f7382f74008309812b90f2c135a6a1f86c93d07572aaaa6de8b5ef
+Deleted: sha256:f7e63ddf5519d84ac09d6f445cac64ff8b4d4f2b2a483e79cf315649c327e30f
+Deleted: sha256:218698ef24a5242db1cd3867462c7106d76e4a5eef62fa15c3d427e09db8e10f
+Deleted: sha256:c9b75cec70582ed1fa510e14da7c891c357fd928e242a6ed465ff57fed724a3b
+Deleted: sha256:af47f5f6c9ee8dcf934d955d5a7dfff419ebde329f531d8a93dd9d05f3e2ac5f
+Deleted: sha256:32333963c6f045e8ff2200be4032e3671032c72a30279a5ba0db4315036e2e23
+Deleted: sha256:9f65010d127f2553a6cf36a090ca0f5f821a3eb3f601e69a967ed0765bf21e97
+Deleted: sha256:4b78df93b68c33044e3f491be9f42d15a4b2b8db213a40fe024fb2a51c2d66d3
+Deleted: sha256:1301c4b1b75b7584991831dfab16130c7ca53c214f3a56e93604d553fa85ccee
+Deleted: sha256:7f0cc776595f4bddee4e8994ac9c943a1737df523e2e3c7eeb3d26ea5e04d090
+Deleted: sha256:fd89050172b05f3186dfbb82143efca8fbdc70342d885223659fbc4b6f3027b3
+Deleted: sha256:21c6c6a21f36599bf1a8cfdefa80cc186cc64791f921d97598f56eced6f2b59a
+Deleted: sha256:0214f4b057d78b44fd12702828152f67c0ce115f9346acc63acdf997cab7e7c8
+Deleted: sha256:1b9d0485372c5562fa614d5b35766f6c442539bcee9825a6e90d1158c3299a61
+Deleted: sha256:3c0f34be6eb98057c607b9080237cce0be0b86f52d51ba620dc018a3d421baea
+Deleted: sha256:be96a3f634de79f523f07c7e4e0216c28af45eb5776e7a6238a2392f71e01069
+end
+
+1693573558.3056664,1693573560.7702627,1693573577.3558085,
+0.1: Pulling from gaulthiergain/scamper_tnt
+58690f9b18fc: Pulling fs layer
+b51569e7c507: Pulling fs layer
+da8ef40b9eca: Pulling fs layer
+fb15d46c38dc: Pulling fs layer
+72ffbb1b8156: Pulling fs layer
+c5fc76517a62: Pulling fs layer
+c8db56c02c12: Pulling fs layer
+8bf0dd184eb7: Pulling fs layer
+4f4fb700ef54: Pulling fs layer
+7f5ac4f46940: Pulling fs layer
+378e754924a9: Pulling fs layer
+4c86be410c6a: Pulling fs layer
+600f0ef9216b: Pulling fs layer
+3677be3aa1a0: Pulling fs layer
+438628ade629: Pulling fs layer
+865367d1a4bd: Pulling fs layer
+6799276f7cfc: Pulling fs layer
+fb15d46c38dc: Waiting
+72ffbb1b8156: Waiting
+c5fc76517a62: Waiting
+c8db56c02c12: Waiting
+8bf0dd184eb7: Waiting
+4f4fb700ef54: Waiting
+7f5ac4f46940: Waiting
+378e754924a9: Waiting
+4c86be410c6a: Waiting
+600f0ef9216b: Waiting
+3677be3aa1a0: Waiting
+438628ade629: Waiting
+865367d1a4bd: Waiting
+6799276f7cfc: Waiting
+b51569e7c507: Verifying Checksum
+b51569e7c507: Download complete
+da8ef40b9eca: Verifying Checksum
+da8ef40b9eca: Download complete
+fb15d46c38dc: Verifying Checksum
+fb15d46c38dc: Download complete
+58690f9b18fc: Verifying Checksum
+58690f9b18fc: Download complete
+72ffbb1b8156: Verifying Checksum
+72ffbb1b8156: Download complete
+c5fc76517a62: Verifying Checksum
+c5fc76517a62: Download complete
+8bf0dd184eb7: Verifying Checksum
+8bf0dd184eb7: Download complete
+4f4fb700ef54: Verifying Checksum
+4f4fb700ef54: Download complete
+c8db56c02c12: Verifying Checksum
+c8db56c02c12: Download complete
+7f5ac4f46940: Verifying Checksum
+7f5ac4f46940: Download complete
+378e754924a9: Verifying Checksum
+378e754924a9: Download complete
+600f0ef9216b: Verifying Checksum
+600f0ef9216b: Download complete
+4c86be410c6a: Verifying Checksum
+4c86be410c6a: Download complete
+3677be3aa1a0: Verifying Checksum
+3677be3aa1a0: Download complete
+438628ade629: Verifying Checksum
+438628ade629: Download complete
+865367d1a4bd: Verifying Checksum
+865367d1a4bd: Download complete
+58690f9b18fc: Pull complete
+6799276f7cfc: Verifying Checksum
+6799276f7cfc: Download complete
+b51569e7c507: Pull complete
+da8ef40b9eca: Pull complete
+fb15d46c38dc: Pull complete
+72ffbb1b8156: Pull complete
+c5fc76517a62: Pull complete
+c8db56c02c12: Pull complete
+8bf0dd184eb7: Pull complete
+4f4fb700ef54: Pull complete
+7f5ac4f46940: Pull complete
+378e754924a9: Pull complete
+4c86be410c6a: Pull complete
+600f0ef9216b: Pull complete
+3677be3aa1a0: Pull complete
+438628ade629: Pull complete
+865367d1a4bd: Pull complete
+6799276f7cfc: Pull complete
+Digest: sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Status: Downloaded newer image for gaulthiergain/scamper_tnt:0.1
+docker.io/gaulthiergain/scamper_tnt:0.1
+t0: 1693573575834
+
+t1: 1693573576574330
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 172.17.0.1
+done
+t2: 1693573576575378
+Untagged: gaulthiergain/scamper_tnt:0.1
+Untagged: gaulthiergain/scamper_tnt@sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Deleted: sha256:8f7ee8fb4cd97557c4d41aa1fca5307e308a10a514b27e81bd3cf600936be83f
+Deleted: sha256:c996ae47cbfd6bc9f41cf1dfa3d6d8744ca9155015eeb1f8f9a1ed8fd1e88098
+Deleted: sha256:e341988497f7382f74008309812b90f2c135a6a1f86c93d07572aaaa6de8b5ef
+Deleted: sha256:f7e63ddf5519d84ac09d6f445cac64ff8b4d4f2b2a483e79cf315649c327e30f
+Deleted: sha256:218698ef24a5242db1cd3867462c7106d76e4a5eef62fa15c3d427e09db8e10f
+Deleted: sha256:c9b75cec70582ed1fa510e14da7c891c357fd928e242a6ed465ff57fed724a3b
+Deleted: sha256:af47f5f6c9ee8dcf934d955d5a7dfff419ebde329f531d8a93dd9d05f3e2ac5f
+Deleted: sha256:32333963c6f045e8ff2200be4032e3671032c72a30279a5ba0db4315036e2e23
+Deleted: sha256:9f65010d127f2553a6cf36a090ca0f5f821a3eb3f601e69a967ed0765bf21e97
+Deleted: sha256:4b78df93b68c33044e3f491be9f42d15a4b2b8db213a40fe024fb2a51c2d66d3
+Deleted: sha256:1301c4b1b75b7584991831dfab16130c7ca53c214f3a56e93604d553fa85ccee
+Deleted: sha256:7f0cc776595f4bddee4e8994ac9c943a1737df523e2e3c7eeb3d26ea5e04d090
+Deleted: sha256:fd89050172b05f3186dfbb82143efca8fbdc70342d885223659fbc4b6f3027b3
+Deleted: sha256:21c6c6a21f36599bf1a8cfdefa80cc186cc64791f921d97598f56eced6f2b59a
+Deleted: sha256:0214f4b057d78b44fd12702828152f67c0ce115f9346acc63acdf997cab7e7c8
+Deleted: sha256:1b9d0485372c5562fa614d5b35766f6c442539bcee9825a6e90d1158c3299a61
+Deleted: sha256:3c0f34be6eb98057c607b9080237cce0be0b86f52d51ba620dc018a3d421baea
+Deleted: sha256:be96a3f634de79f523f07c7e4e0216c28af45eb5776e7a6238a2392f71e01069
+end
+
+1693573563.3389568,1693573563.65636,1693573579.2172077,
+0.1: Pulling from gaulthiergain/scamper_tnt
+58690f9b18fc: Pulling fs layer
+b51569e7c507: Pulling fs layer
+da8ef40b9eca: Pulling fs layer
+fb15d46c38dc: Pulling fs layer
+72ffbb1b8156: Pulling fs layer
+c5fc76517a62: Pulling fs layer
+c8db56c02c12: Pulling fs layer
+8bf0dd184eb7: Pulling fs layer
+4f4fb700ef54: Pulling fs layer
+7f5ac4f46940: Pulling fs layer
+378e754924a9: Pulling fs layer
+4c86be410c6a: Pulling fs layer
+600f0ef9216b: Pulling fs layer
+3677be3aa1a0: Pulling fs layer
+438628ade629: Pulling fs layer
+865367d1a4bd: Pulling fs layer
+6799276f7cfc: Pulling fs layer
+7f5ac4f46940: Waiting
+378e754924a9: Waiting
+4c86be410c6a: Waiting
+600f0ef9216b: Waiting
+3677be3aa1a0: Waiting
+438628ade629: Waiting
+865367d1a4bd: Waiting
+6799276f7cfc: Waiting
+72ffbb1b8156: Waiting
+c5fc76517a62: Waiting
+c8db56c02c12: Waiting
+8bf0dd184eb7: Waiting
+4f4fb700ef54: Waiting
+fb15d46c38dc: Waiting
+da8ef40b9eca: Verifying Checksum
+da8ef40b9eca: Download complete
+b51569e7c507: Download complete
+fb15d46c38dc: Verifying Checksum
+fb15d46c38dc: Download complete
+58690f9b18fc: Verifying Checksum
+58690f9b18fc: Download complete
+c5fc76517a62: Verifying Checksum
+c5fc76517a62: Download complete
+72ffbb1b8156: Verifying Checksum
+72ffbb1b8156: Download complete
+8bf0dd184eb7: Verifying Checksum
+8bf0dd184eb7: Download complete
+4f4fb700ef54: Verifying Checksum
+4f4fb700ef54: Download complete
+7f5ac4f46940: Verifying Checksum
+7f5ac4f46940: Download complete
+378e754924a9: Verifying Checksum
+378e754924a9: Download complete
+4c86be410c6a: Verifying Checksum
+4c86be410c6a: Download complete
+600f0ef9216b: Verifying Checksum
+600f0ef9216b: Download complete
+c8db56c02c12: Verifying Checksum
+c8db56c02c12: Download complete
+438628ade629: Verifying Checksum
+438628ade629: Download complete
+3677be3aa1a0: Verifying Checksum
+3677be3aa1a0: Download complete
+865367d1a4bd: Verifying Checksum
+865367d1a4bd: Download complete
+6799276f7cfc: Verifying Checksum
+6799276f7cfc: Download complete
+58690f9b18fc: Pull complete
+b51569e7c507: Pull complete
+da8ef40b9eca: Pull complete
+fb15d46c38dc: Pull complete
+72ffbb1b8156: Pull complete
+c5fc76517a62: Pull complete
+c8db56c02c12: Pull complete
+8bf0dd184eb7: Pull complete
+4f4fb700ef54: Pull complete
+7f5ac4f46940: Pull complete
+378e754924a9: Pull complete
+4c86be410c6a: Pull complete
+600f0ef9216b: Pull complete
+3677be3aa1a0: Pull complete
+438628ade629: Pull complete
+865367d1a4bd: Pull complete
+6799276f7cfc: Pull complete
+Digest: sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Status: Downloaded newer image for gaulthiergain/scamper_tnt:0.1
+docker.io/gaulthiergain/scamper_tnt:0.1
+t0: 1693573577648
+
+t1: 1693573578566054
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 172.17.0.1
+done
+t2: 1693573578567267
+Untagged: gaulthiergain/scamper_tnt:0.1
+Untagged: gaulthiergain/scamper_tnt@sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Deleted: sha256:8f7ee8fb4cd97557c4d41aa1fca5307e308a10a514b27e81bd3cf600936be83f
+Deleted: sha256:c996ae47cbfd6bc9f41cf1dfa3d6d8744ca9155015eeb1f8f9a1ed8fd1e88098
+Deleted: sha256:e341988497f7382f74008309812b90f2c135a6a1f86c93d07572aaaa6de8b5ef
+Deleted: sha256:f7e63ddf5519d84ac09d6f445cac64ff8b4d4f2b2a483e79cf315649c327e30f
+Deleted: sha256:218698ef24a5242db1cd3867462c7106d76e4a5eef62fa15c3d427e09db8e10f
+Deleted: sha256:c9b75cec70582ed1fa510e14da7c891c357fd928e242a6ed465ff57fed724a3b
+Deleted: sha256:af47f5f6c9ee8dcf934d955d5a7dfff419ebde329f531d8a93dd9d05f3e2ac5f
+Deleted: sha256:32333963c6f045e8ff2200be4032e3671032c72a30279a5ba0db4315036e2e23
+Deleted: sha256:9f65010d127f2553a6cf36a090ca0f5f821a3eb3f601e69a967ed0765bf21e97
+Deleted: sha256:4b78df93b68c33044e3f491be9f42d15a4b2b8db213a40fe024fb2a51c2d66d3
+Deleted: sha256:1301c4b1b75b7584991831dfab16130c7ca53c214f3a56e93604d553fa85ccee
+Deleted: sha256:7f0cc776595f4bddee4e8994ac9c943a1737df523e2e3c7eeb3d26ea5e04d090
+Deleted: sha256:fd89050172b05f3186dfbb82143efca8fbdc70342d885223659fbc4b6f3027b3
+Deleted: sha256:21c6c6a21f36599bf1a8cfdefa80cc186cc64791f921d97598f56eced6f2b59a
+Deleted: sha256:0214f4b057d78b44fd12702828152f67c0ce115f9346acc63acdf997cab7e7c8
+Deleted: sha256:1b9d0485372c5562fa614d5b35766f6c442539bcee9825a6e90d1158c3299a61
+Deleted: sha256:3c0f34be6eb98057c607b9080237cce0be0b86f52d51ba620dc018a3d421baea
+Deleted: sha256:be96a3f634de79f523f07c7e4e0216c28af45eb5776e7a6238a2392f71e01069
+end
+
+1693573568.0870473,1693573568.9884498,1693573584.7221768,
+0.1: Pulling from gaulthiergain/scamper_tnt
+58690f9b18fc: Pulling fs layer
+b51569e7c507: Pulling fs layer
+da8ef40b9eca: Pulling fs layer
+fb15d46c38dc: Pulling fs layer
+72ffbb1b8156: Pulling fs layer
+c5fc76517a62: Pulling fs layer
+fb15d46c38dc: Waiting
+72ffbb1b8156: Waiting
+c5fc76517a62: Waiting
+c8db56c02c12: Pulling fs layer
+8bf0dd184eb7: Pulling fs layer
+4f4fb700ef54: Pulling fs layer
+7f5ac4f46940: Pulling fs layer
+378e754924a9: Pulling fs layer
+c8db56c02c12: Waiting
+8bf0dd184eb7: Waiting
+4f4fb700ef54: Waiting
+7f5ac4f46940: Waiting
+4c86be410c6a: Pulling fs layer
+378e754924a9: Waiting
+600f0ef9216b: Pulling fs layer
+3677be3aa1a0: Pulling fs layer
+4c86be410c6a: Waiting
+600f0ef9216b: Waiting
+3677be3aa1a0: Waiting
+438628ade629: Pulling fs layer
+865367d1a4bd: Pulling fs layer
+438628ade629: Waiting
+6799276f7cfc: Pulling fs layer
+865367d1a4bd: Waiting
+6799276f7cfc: Waiting
+da8ef40b9eca: Verifying Checksum
+b51569e7c507: Verifying Checksum
+b51569e7c507: Download complete
+da8ef40b9eca: Download complete
+fb15d46c38dc: Verifying Checksum
+fb15d46c38dc: Download complete
+c5fc76517a62: Verifying Checksum
+c5fc76517a62: Download complete
+58690f9b18fc: Verifying Checksum
+58690f9b18fc: Download complete
+72ffbb1b8156: Verifying Checksum
+72ffbb1b8156: Download complete
+4f4fb700ef54: Verifying Checksum
+4f4fb700ef54: Download complete
+7f5ac4f46940: Verifying Checksum
+7f5ac4f46940: Download complete
+8bf0dd184eb7: Verifying Checksum
+8bf0dd184eb7: Download complete
+378e754924a9: Verifying Checksum
+378e754924a9: Download complete
+600f0ef9216b: Verifying Checksum
+600f0ef9216b: Download complete
+c8db56c02c12: Verifying Checksum
+c8db56c02c12: Download complete
+4c86be410c6a: Verifying Checksum
+4c86be410c6a: Download complete
+3677be3aa1a0: Verifying Checksum
+3677be3aa1a0: Download complete
+438628ade629: Verifying Checksum
+438628ade629: Download complete
+865367d1a4bd: Verifying Checksum
+865367d1a4bd: Download complete
+6799276f7cfc: Verifying Checksum
+6799276f7cfc: Download complete
+58690f9b18fc: Pull complete
+b51569e7c507: Pull complete
+da8ef40b9eca: Pull complete
+fb15d46c38dc: Pull complete
+72ffbb1b8156: Pull complete
+c5fc76517a62: Pull complete
+c8db56c02c12: Pull complete
+8bf0dd184eb7: Pull complete
+4f4fb700ef54: Pull complete
+7f5ac4f46940: Pull complete
+378e754924a9: Pull complete
+4c86be410c6a: Pull complete
+600f0ef9216b: Pull complete
+3677be3aa1a0: Pull complete
+438628ade629: Pull complete
+865367d1a4bd: Pull complete
+6799276f7cfc: Pull complete
+Digest: sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Status: Downloaded newer image for gaulthiergain/scamper_tnt:0.1
+docker.io/gaulthiergain/scamper_tnt:0.1
+t0: 1693573583188
+
+t1: 1693573583980866
+p 1, w 0, l 0 : trace -f 1 -l 1 -P icmp-paris -U 1 -w 1 -q 3 -g 5 172.17.0.1
+done
+t2: 1693573583982561
+Untagged: gaulthiergain/scamper_tnt:0.1
+Untagged: gaulthiergain/scamper_tnt@sha256:aef51e35e68165af60437710de6652b7308a9fdd3000b198ef082aade78a534e
+Deleted: sha256:8f7ee8fb4cd97557c4d41aa1fca5307e308a10a514b27e81bd3cf600936be83f
+Deleted: sha256:c996ae47cbfd6bc9f41cf1dfa3d6d8744ca9155015eeb1f8f9a1ed8fd1e88098
+Deleted: sha256:e341988497f7382f74008309812b90f2c135a6a1f86c93d07572aaaa6de8b5ef
+Deleted: sha256:f7e63ddf5519d84ac09d6f445cac64ff8b4d4f2b2a483e79cf315649c327e30f
+Deleted: sha256:218698ef24a5242db1cd3867462c7106d76e4a5eef62fa15c3d427e09db8e10f
+Deleted: sha256:c9b75cec70582ed1fa510e14da7c891c357fd928e242a6ed465ff57fed724a3b
+Deleted: sha256:af47f5f6c9ee8dcf934d955d5a7dfff419ebde329f531d8a93dd9d05f3e2ac5f
+Deleted: sha256:32333963c6f045e8ff2200be4032e3671032c72a30279a5ba0db4315036e2e23
+Deleted: sha256:9f65010d127f2553a6cf36a090ca0f5f821a3eb3f601e69a967ed0765bf21e97
+Deleted: sha256:4b78df93b68c33044e3f491be9f42d15a4b2b8db213a40fe024fb2a51c2d66d3
+Deleted: sha256:1301c4b1b75b7584991831dfab16130c7ca53c214f3a56e93604d553fa85ccee
+Deleted: sha256:7f0cc776595f4bddee4e8994ac9c943a1737df523e2e3c7eeb3d26ea5e04d090
+Deleted: sha256:fd89050172b05f3186dfbb82143efca8fbdc70342d885223659fbc4b6f3027b3
+Deleted: sha256:21c6c6a21f36599bf1a8cfdefa80cc186cc64791f921d97598f56eced6f2b59a
+Deleted: sha256:0214f4b057d78b44fd12702828152f67c0ce115f9346acc63acdf997cab7e7c8
+Deleted: sha256:1b9d0485372c5562fa614d5b35766f6c442539bcee9825a6e90d1158c3299a61
+Deleted: sha256:3c0f34be6eb98057c607b9080237cce0be0b86f52d51ba620dc018a3d421baea
+Deleted: sha256:be96a3f634de79f523f07c7e4e0216c28af45eb5776e7a6238a2392f71e01069
+end
+
